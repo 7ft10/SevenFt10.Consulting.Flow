@@ -1,0 +1,12 @@
+# Business Analyst
+
+BAs focus on understanding problems and straddle the line between IT and the business to help bridge the gap and improve efficiency so they can answer questions from the team swiftly and decisively. They ensure the requirements meet the current business needs and help guide and improve the business.
+
+{% hint style="info" %}
+Closely aligned to the Subject Matter Expert (SME) role
+{% endhint %}
+
+* Participate in Agile Ceremonies Support Product Owner by analysing the business domain, stocking the backlog and grooming the backlog Identify which business processes need to be revised, created or removed Identify what stakeholders and systems are involved Identify what policies and rules guide business behaviour and decisions Elicit requirements from Business Stakeholders and various SMEs Provide high-level t-shirt estimates and more detailed story-point estimates during relevant elaboration of solution design sessions Help the product owner derive stories from the models created during domain analysis Utilise fit for purpose techniques to document AS-IS and TO-BE process and value stream maps Support the preparation of new stories for POs as they surface during sprints and at end of sprint demos with stakeholders Together with the PO groom the backlog so it remains a tool for the PO and the team Work with the core team to split big stories (epics) into user stories Works with UX/UI to come up with prototypes, wireframes or designs that meet requirements or facilitate discussions Utilise personas, story mapping techniques to map out the backlog Keep backlog in good order by grouping stories into themes, and organising stories into releases and Sprints Work with the core team to right size stories for delivery within a sprint. Facilitate collaboration by translating 'business speak' into 'technical speak’ Together with the core team elaborate the stories through examples to enforce the business rules Transfer knowledge by generating information radiators for the rest of the team through visuals, process maps in a common shared area for team Ensuring any documentation about the change is up to date and visible and transparent to everyone in the business Be a good team member by helping to clear bottlenecks and helping team with business logic clarity during testing, user interface design, preparing test data, training and communications
+
+## Capability Assessment
+

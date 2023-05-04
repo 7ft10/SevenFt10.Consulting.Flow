@@ -1,0 +1,1452 @@
+Date: Thu, 4 May 2023 17:15:50 +1000 (AEST)
+Message-ID: <1973437753.238716.1683184550596@pk-conflu-app.budgetdirect.com.au>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_238715_1509485663.1683184550594"
+
+------=_Part_238715_1509485663.1683184550594
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Test Plan Template</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Test Plan Template</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"TestPlanTemplate-DistributionList"><span class=3D"inline-=
+comment-marker" data-ref=3D"f96e94ea-d0f6-441b-852d-1f032421549d">Distribut=
+ion List</span></h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 128.0px;">
+<col style=3D"width: 296.0px;">
+<col style=3D"width: 67.0px;">
+<col style=3D"width: 81.0px;">
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Name</th>
+<th class=3D"confluenceTh">Role</th>
+<th class=3D"confluenceTh">Review</th>
+<th class=3D"confluenceTh">Approval</th>
+<th colspan=3D"1" class=3D"confluenceTh">Inform</th>
+<th colspan=3D"1" class=3D"confluenceTh"><br></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Rebecca Harris</td>
+<td class=3D"confluenceTd">GM - Portfolio Implementation and Planning</td>
+<td class=3D"confluenceTd">X</td>
+<td class=3D"confluenceTd">X</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd">Head of Testing</td>
+<td class=3D"confluenceTd">X</td>
+<td class=3D"confluenceTd">X</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Angela Baro</td>
+<td colspan=3D"1" class=3D"confluenceTd">Functional Test Manager</td>
+<td colspan=3D"1" class=3D"confluenceTd">X</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Alma Turqueza</td>
+<td class=3D"confluenceTd">Test Lead</td>
+<td class=3D"confluenceTd">X</td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Brenton Cuthbert</td>
+<td class=3D"confluenceTd">Test Lead</td>
+<td class=3D"confluenceTd">X</td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Dominic Gargaro</td>
+<td class=3D"confluenceTd">Test Lead</td>
+<td class=3D"confluenceTd">X</td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Graeme Woods</td>
+<td class=3D"confluenceTd">Test Lead</td>
+<td class=3D"confluenceTd">X</td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">John Mortimer</td>
+<td colspan=3D"1" class=3D"confluenceTd">Test Lead</td>
+<td colspan=3D"1" class=3D"confluenceTd">X</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Marc Benitz</td>
+<td colspan=3D"1" class=3D"confluenceTd">Test Lead</td>
+<td colspan=3D"1" class=3D"confluenceTd">X</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102=
+);">Paulo Ogliani</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102=
+);">Senior Delivery Coach</span></td>
+<td colspan=3D"1" class=3D"confluenceTd">X</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class=3D"auto-cursor-target" id=3D"TestPlanTemplate-VersionHistory"><sp=
+an class=3D"inline-comment-marker" data-ref=3D"afba461c-d990-4015-971a-d0be=
+f752e78a">Version History</span></h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Document version</th>
+<th class=3D"confluenceTh">Author/s</th>
+<th class=3D"confluenceTh">Date</th>
+<th colspan=3D"1" class=3D"confluenceTh">Revision Notes</th>
+<th colspan=3D"1" class=3D"confluenceTh">Status</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">0.1</td>
+<td class=3D"confluenceTd">Angela Baro</td>
+<td class=3D"confluenceTd">28/03/2022</td>
+<td colspan=3D"1" class=3D"confluenceTd">Initial Creation</td>
+<td colspan=3D"1" class=3D"confluenceTd">Draft</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,255);">0.2</span><=
+/td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,255);">Dominic Gar=
+garo</span></td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,255);">31/03/2022<=
+/span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,255)=
+;">Review</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,255)=
+;">Draft</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(255,102,0);">0.3</span=
+></td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(255,102,0);">Graeme Wo=
+ods</span></td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(255,102,0);">31/03/202=
+2</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(255,102,=
+0);">Review</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(255,102,=
+0);">Draft</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(255,0,25=
+5);">0.4</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(255,0,25=
+5);">Brenton Cuthbert</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(255,0,25=
+5);">31/03/2022</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(255,0,25=
+5);">Review</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(255,0,25=
+5);">Draft</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(51,153,1=
+02);">0.5</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(51,153,1=
+02);">John Mortimer</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(51,153,1=
+02);">04/04/2022</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(51,153,1=
+02);">Review</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(51,153,1=
+02);">Draft</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(128,0,12=
+8);">0.6</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(128,0,12=
+8);">Alma Turqueza</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(128,0,12=
+8);">04/04/22</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(128,0,12=
+8);">Review</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(128,0,12=
+8);">Draft</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class=3D"auto-cursor-target" id=3D"TestPlanTemplate-ReferenceDocuments"=
+><span class=3D"inline-comment-marker" data-ref=3D"a5af68a0-1a95-46fb-90b8-=
+9e5ba0578176">Reference Documents</span></h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,0);">Reference Doc=
+ument Name</span></th>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(51,102,2=
+55);">Description</span></th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,0);">Link</span></=
+th>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102=
+);">Project Space</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">Master Test S=
+trategy</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"><a href=3D"/d=
+isplay/GWT/Master+Test+Strategy">Master Test Strategy</a></span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">Test Summary =
+Report</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Defect Management</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><a href=3D"/display/GWT/Defect+Man=
+agement+Strategy">Defect Management Strategy</a></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Testing Language</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><p><a href=3D"/display/GWT/The+Language+of+Testi=
+ng">The Language of Testing</a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class=3D"auto-cursor-target" id=3D"TestPlanTemplate-Introduction">Intro=
+duction</h2>
+<p><span style=3D"color: rgb(0,51,102);">The purpose of this document is to=
+ provide our stakeholders visibility of the testing that will be carried ou=
+t for <strong>&lt;project/release&gt;</strong> and&nbsp;validate that the s=
+olutions being delivered meet agreed business requirements and do not have =
+a negative impact on existing functionality. The plan will define the test =
+approach, scope, roles and responsibilities, defect management<s>s</s>, and=
+ entry/exit criteria, across the following test phases:</span></p>
+<ul style=3D"list-style-type: square;">
+<li><span style=3D"color: rgb(0,51,102);">System Testing (ST)</span></li>
+<li><span style=3D"color: rgb(0,51,102);">System Integrating Testing (SIT)<=
+/span></li>
+<li><span style=3D"color: rgb(0,51,102);">Regression Testing</span></li>
+<li><span style=3D"color: rgb(0,0,0);">User Acceptance Testing (UAT)</span>=
+</li>
+<li><span style=3D"color: rgb(0,0,0);">Production Validation Testing (PVT)<=
+/span></li>
+</ul>
+<h2 id=3D"TestPlanTemplate-QualityObjective">Quality Objective</h2>
+<p>&lt;Summary of functions/product/brand where testing will be focused bas=
+ed on the actual changes being delivered.&gt;</p>
+<h2 id=3D"TestPlanTemplate-Tasks(BelowareonlyexamplesofTasksthatcanbeassoci=
+atedwithaTestPlan)">Tasks <span style=3D"color: rgb(255,0,0);"><span class=
+=3D"inline-comment-marker" data-ref=3D"5b38717e-af78-4e4e-92f7-df9cd866fe29=
+">(Below are only examples of Tasks that can be associated with a Test Plan=
+)</span></span></h2>
+<p>The associated tasks have been identified to support implementation of t=
+his test plan:</p>
+<ul style=3D"list-style-type: square;">
+<li>Adher<span style=3D"color: rgb(0,51,102);">ence to the sprint schedule =
+and deployment timelines&nbsp;</span></li>
+<li><span style=3D"color: rgb(0,51,102);">Allocation and scheduling of Test=
+ Analysts and Automation Engineers</span></li>
+<li><span style=3D"color: rgb(255,102,0);"><span style=3D"color: rgb(0,51,1=
+02);">Identification and Coordination of User Acceptance representatives</s=
+pan></span></li>
+<li>Ensuring test environments have correct builds and integration applicat=
+ions</li>
+<li>Adherence to the Defect Management Process</li>
+<li>Creation, maintenance<span style=3D"color: rgb(51,102,255);"><span styl=
+e=3D"color: rgb(0,0,0);"> and&nbsp;</span></span><span style=3D"color: rgb(=
+0,51,102);">execu</span>tion of test cases across all phases</li>
+<li>Define exit/entry criteria</li>
+</ul>
+<h2 id=3D"TestPlanTemplate-Scope"><span class=3D"inline-comment-marker" dat=
+a-ref=3D"9fe36fe9-0c89-431d-afda-091adbee8360">Scope</span></h2>
+<p><span class=3D"inline-comment-marker" data-ref=3D"05cb1562-f5ae-4376-aa8=
+8-959ca08981b8">The follow</span><span style=3D"color: rgb(0,0,0);"><span c=
+lass=3D"inline-comment-marker" data-ref=3D"05cb1562-f5ae-4376-aa88-959ca089=
+81b8">ing&nbsp;stories a</span></span><span class=3D"inline-comment-marker"=
+ data-ref=3D"05cb1562-f5ae-4376-aa88-959ca08981b8">re in scope for this rel=
+ease:</span></p>
+<p>&lt;insert JIRA extract of Cards or link to JIRA&gt;</p>
+<h2 id=3D"TestPlanTemplate-OutofScope"><span class=3D"inline-comment-marker=
+" data-ref=3D"2fb78ce8-e321-46fd-a503-9de8903dde7f">Out of Scope</span>&nbs=
+p;</h2>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p><span class=3D"inline-comment-marker" data-ref=3D"a1420037-9ee1-4170-a2f=
+b-88c38f28d665">The below are examples of what could be out of scope. Pleas=
+e remove any items in scope.&nbsp;</span></p>
+<p><span class=3D"inline-comment-marker" data-ref=3D"a1420037-9ee1-4170-a2f=
+b-88c38f28d665">Please also note that the below could be out of scope for o=
+ur testing, but that it may be in scope and completed by another team. eg. =
+Penetration Testing</span></p>
+</div>
+</div>
+<p><br></p>
+<ul>
+<li><span style=3D"color: rgb(0,0,0);"><span class=3D"inline-comment-marker=
+" data-ref=3D"e4510537-b30e-4974-a7ea-cd5b148f3569">Unit</span> Testing</sp=
+an></li>
+<li><span style=3D"color: rgb(0,0,0);">Performance Testing</span></li>
+<li><span style=3D"color: rgb(0,0,0);">Penetration Testing</span></li>
+<li><span style=3D"color: rgb(0,0,0);">Pricing testing&nbsp;</span></li>
+<li><span style=3D"color: rgb(0,0,0);">Documents Regression suites (verific=
+ation of all types of documents and functionalities that trigger documents)=
+</span></li>
+<li><span style=3D"color: rgb(0,0,0);">Compatibility Testing</span></li>
+<li><span style=3D"color: rgb(0,0,0);">Any&nbsp;stories not explicitly ment=
+ioned under Scope</span></li>
+</ul>
+<p><br></p>
+<h2 id=3D"TestPlanTemplate-TestingApproach">Testing <span class=3D"inline-c=
+omment-marker" data-ref=3D"de8052ab-8a4c-4ec0-bf1d-440f855144d7">Approach</=
+span></h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 68.=
+2501%;">
+<colgroup>
+<col style=3D"width: 14.1667%;">
+<col style=3D"width: 85.8333%;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"highlight-grey confluenceTd" title=3D"Background colour : Grey=
+" colspan=3D"2" data-highlight-colour=3D"grey"><p title=3D""><strong>System=
+ and System Integration Testing</strong></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>Definition &amp;&nbsp; Approach</span><=
+/p></td>
+<td class=3D"confluenceTd"><p><span>System Testing (ST) is performed to ens=
+ure that developed changes behave according to all defined requirements aga=
+inst the application where the changes have been made.</span></p><p style=
+=3D"text-align: left;"><span style=3D"color: rgb(0,51,102);">Example of sto=
+ry that requires ST</span></p><p style=3D"text-align: left;margin-left: 30.=
+0px;"><span style=3D"color: rgb(0,51,102);"><em>Add a new checkbox to the p=
+age that when ticked displays a numeric input field immediately to the righ=
+t of it.</em></span></p><p style=3D"text-align: left;margin-left: 30.0px;">=
+<br></p><p><span> System Integration Testing (SIT) is performed when there =
+are integration points to other applications and that all upstream and down=
+stream functionality and inter-dependency are working as expected.</span></=
+p><p><span>Example of stories that require SIT</span></p><p style=3D"margin=
+-left: 30.0px;"><em>Create a new customer and purchase a new Car policy onl=
+ine. Verify that the new customer and new car policy details are displayed =
+correctly in DISC.</em></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>Responsible Roles</span></p></td>
+<td class=3D"confluenceTd">Test Analysts</td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"inline-comment-mark=
+er" data-ref=3D"deedee19-9677-478e-b497-613ef5127323">Environment</span></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd"><p><br></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,51,102);">System</sp=
+an></th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,51,102);">Environmen=
+t</span></th>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,51,102=
+);">Integrations</span></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102);">DISC</span=
+></td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102);">NXQ</span>=
+</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102=
+);">QA (Unity), OnBase (Test), CAE (Solera - shared NXQ &amp; PreLive)</spa=
+n></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">DSO</td>
+<td colspan=3D"1" class=3D"confluenceTd">NXQ</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102=
+);">Unity</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102=
+);">QA</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102=
+);">NXQ (DISC), OnBase (Test - Outgoing only)</span></td>
+</tr>
+</tbody>
+</table>
+</div></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Deliverables</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Test Cases (including execution=
+ results)</p><p>Test Summary (including Defects Summary)</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Test Data</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>All ST and SIT tests will use m=
+anually generated test data created by Manu<span style=3D"color: rgb(0,0,0)=
+;">al Testers or masked production data. (Also acknowledging that the dev's=
+ often need to help us with this)</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0=
+);">Test Management Tool</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>XRAY&nbsp;</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Coverage</td>
+<td colspan=3D"1" class=3D"confluenceTd">
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Epic</th>
+<th colspan=3D"1" class=3D"confluenceTh">Description</th>
+<th class=3D"confluenceTh">Applications</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Entry Criteria</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,=
+102);">Stories have been identified (Coverage above is identified at a Feat=
+ure level).</span></p><p><span style=3D"color: rgb(0,51,102);">Stories have=
+ been elaborated with approved Acceptance Criteria</span></p><p>Test estima=
+tions have been included in the story points</p><p>Development has been com=
+pleted&nbsp;</p><p>Unit Testing has been completed&nbsp;</p><p>Change has b=
+een deployed in Test environment</p><p><span style=3D"color: rgb(0,51,102);=
+">Relevant test environment and test data has been set up especially if int=
+egrating to a third party application</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Exit Criteria</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>All planned System/ SIT test ca=
+ses have been executed and results documented</p><p><span style=3D"color: r=
+gb(0,0,0);">Acceptance Criteria has been met within agreed specification</s=
+pan></p><p><span style=3D"color: rgb(0,0,0);">All defects are documented in=
+ JIRA</span></p><p>Any defect not closed, has been agreed with the PO with =
+<span style=3D"color: rgb(0,51,102);">the priority, severity, business impa=
+ct and any mitigation plan captured</span></p><p>ST/SIT results have been c=
+aptured in the Test Summary report</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br><br></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 99.=
+92%;">
+<colgroup>
+<col style=3D"width: 14.7305%;">
+<col style=3D"width: 85.3483%;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"highlight-grey confluenceTd" style=3D"width: 99.92%;" title=3D=
+"Background colour : Grey" colspan=3D"2" data-highlight-colour=3D"grey"><h3=
+ title=3D"" id=3D"TestPlanTemplate-RegressionTest">Regression Test</h3></td=
+>
+</tr>
+<tr>
+<td style=3D"width: 14.72%;" class=3D"confluenceTd"><p><span>Definition &am=
+p; Approach</span></p></td>
+<td style=3D"width: 85.2%;" class=3D"confluenceTd"><p><span>Regression test=
+ing is performed to ensure that the introduced changes<span style=3D"color:=
+ rgb(0,0,0);"> have not impacted existing functionality.</span></span></p><=
+/td>
+</tr>
+<tr>
+<td style=3D"width: 14.72%;" class=3D"confluenceTd"><p><span>Res<span style=
+=3D"color: rgb(0,51,102);">ponsible Roles</span></span></p></td>
+<td style=3D"width: 85.2%;" class=3D"confluenceTd"><p><span>For any manual =
+regression scenarios needed as a result of a project changes, the Test Anal=
+ysts are responsible for execution. </span></p><p><span>Test Analyst/Automa=
+tion Engineers are to support the running of all automated suites, as well =
+as triage issues. </span></p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.72%;" class=3D"confluenceTd"><p><span><span class=3D=
+"inline-comment-marker" data-ref=3D"ba7d62dc-dee0-463b-91d0-e04d22c195f3">E=
+nvironment</span>&nbsp;</span></p></td>
+<td style=3D"width: 85.2%;" class=3D"confluenceTd"><p><br></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,0);">System</span>=
+</th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,0);">Environment</=
+span></th>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,0);"=
+>Integrations</span></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">DISC</span></=
+td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">NXQ</span></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>QA (Unity), OnBase (Test), CAE (Solera - shared NXQ &amp; PreLive)</span><=
+/td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>DISC</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>PreLive (TRN)</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Staging (Unity), OnBase (Test), CAE (Solera - shared NXQ &amp; PreLive)</s=
+pan></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Unity</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>QA</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>NXQ (DISC), OnBase (Test - outgoing only)</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Unity</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Staging</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>PreLive (DISC), OnBase (Test - full integration)</span></td>
+</tr>
+</tbody>
+</table>
+</div></td>
+</tr>
+<tr>
+<td style=3D"width: 14.72%;" class=3D"confluenceTd"><p><span>Deliverable&nb=
+sp;</span></p></td>
+<td style=3D"width: 85.2%;" class=3D"confluenceTd"><p><span style=3D"color:=
+ rgb(0,51,102);">Link to Test Cases and Test Executions</span></p><p><span =
+style=3D"color: rgb(0,51,102);">Link to Automated Test scripts and results<=
+/span></p><p><span>Test Summary Report including defects summary</span></p>=
+</td>
+</tr>
+<tr>
+<td style=3D"width: 14.72%;" class=3D"confluenceTd"><p><span style=3D"color=
+: rgb(0,0,0);">Test Management Tool</span></p></td>
+<td style=3D"width: 85.2%;" class=3D"confluenceTd"><span style=3D"color: rg=
+b(0,0,0);">XRAY</span></td>
+</tr>
+<tr>
+<td style=3D"width: 14.72%;" class=3D"confluenceTd"><p><span>Test Data&nbsp=
+;</span></p></td>
+<td style=3D"width: 85.2%;" class=3D"confluenceTd"><p><span>Automated Regre=
+ssion tests use generated data which is created as part of the scripts.&nbs=
+p;</span></p><p><span>Manual Regression will also use generated data unless=
+ the tests&nbsp;are dependent on <span style=3D"color: rgb(0,0,0);">using e=
+xisting desensitised Production data (for testing in PreLive)</span></span>=
+</p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.72%;" class=3D"confluenceTd"><p><span>Coverage&nbsp;=
+</span></p></td>
+<td style=3D"width: 85.2%;" class=3D"confluenceTd"><p><span class=3D"inline=
+-comment-marker" data-ref=3D"a2ca86de-3612-4ec5-93aa-39da333d0906">Provide =
+high level summary of test coverage, including applicati</span><span style=
+=3D"color: rgb(0,0,0);"><span class=3D"inline-comment-marker" data-ref=3D"a=
+2ca86de-3612-4ec5-93aa-39da333d0906">ons/brands.</span></span></p><p><br></=
+p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.72%;" class=3D"confluenceTd"><p><span>Entry Criteria=
+&nbsp;</span></p></td>
+<td style=3D"width: 85.2%;" class=3D"confluenceTd"><p>Successful completion=
+ of ST/SIT testi<span style=3D"color: rgb(0,0,0);">ng (also carried out for=
+ new releases of Coda Core Deliveries where no completion of ST/ SIT is car=
+ried out by A&amp;G)&nbsp;</span></p><p><span style=3D"color: rgb(0,0,0);">=
+All code changes have been deployed</span></p><p><span style=3D"color: rgb(=
+0,0,0);">Technical Verification Tests completed by Developers have been com=
+pleted and passed</span></p><p><span style=3D"color: rgb(0,0,0);">All appli=
+cations are available</span></p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.72%;" class=3D"confluenceTd"><p><span>Exit Criteria&=
+nbsp;</span></p></td>
+<td style=3D"width: 85.2%;" class=3D"confluenceTd"><p>All planned Regressio=
+n tests have been executed and results captured</p><p>All Severity/Priority=
+ 1 and 2 defects have been resolved</p><p>Any outstanding&nbsp;Severity/Pri=
+ority 3 and 4 defects unresolved have been approved by the PO with impact, =
+workaround, and way forward documented.&nbsp;</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"table-wrap">
+<table class=3D"relative-table wrapped confluenceTable" style=3D"width: 99.=
+9194%;">
+<colgroup>
+<col style=3D"width: 14.209%;">
+<col style=3D"width: 85.791%;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"highlight-grey confluenceTd" style=3D"width: 99.9194%;" title=
+=3D"Background colour : Grey" colspan=3D"2" data-highlight-colour=3D"grey">=
+<p title=3D""><strong>User Acceptance Testing</strong></p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.1935%;" class=3D"confluenceTd"><p><span style=3D"let=
+ter-spacing: 0.0px;">Definition &amp; Approach</span></p></td>
+<td style=3D"width: 85.7258%;" class=3D"confluenceTd"><p><span style=3D"col=
+or: rgb(0,0,0);">User acceptance testing (UAT) is the final phase of testin=
+g before go-live. It will be up to the Stakeholders/SMEs to determine if th=
+ey would like to conduct UAT.</span></p><p><span style=3D"color: rgb(0,0,0)=
+;">During UAT, business users, with the support of the SMEs and Test Analys=
+ts, will test to validate that the systems are performing as expected again=
+st business scenarios and standard operating procedures.</span></p><p><span=
+ style=3D"color: rgb(0,0,0);">Approach to UAT consists of:&nbsp;</span></p>=
+<p style=3D"margin-left: 30.0px;"><span style=3D"color: rgb(0,0,0);">Explor=
+atory Testing: Ad hoc testing without structure or test cases to follow. Th=
+is is to be performed by the business user based on how they use the system=
+ via business processes &amp; procedures. </span></p><p style=3D"margin-lef=
+t: 30.0px;"><span style=3D"color: rgb(0,0,0);">Project Testing: SMEs or Bus=
+iness&nbsp;Users prepare test scenarios&nbsp;based on the project changes t=
+hat are then handed over to the business users for execution. This testing =
+should not replicate the testing completed during ST/SIT/Regression.</span>=
+</p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.1935%;" class=3D"confluenceTd"><p>Responsible Roles<=
+/p></td>
+<td style=3D"width: 85.7258%;" class=3D"confluenceTd"><p><span style=3D"col=
+or: rgb(0,0,0);">Business Users</span></p><p><span style=3D"color: rgb(0,0,=
+0);">SMEs</span></p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.1935%;" class=3D"confluenceTd"><p><span class=3D"inl=
+ine-comment-marker" data-ref=3D"3119c0e9-fdfc-4189-a01a-d1bec6f1b648">Envir=
+onment</span></p></td>
+<td style=3D"width: 85.7258%;" class=3D"confluenceTd"><p><br></p>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,0);">System</span>=
+</th>
+<th class=3D"confluenceTh"><span style=3D"color: rgb(0,0,0);">Environment</=
+span></th>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,0,0);"=
+>Integrations</span></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">DISC</span></=
+td>
+<td class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);">NXQ</span></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>QA (Unity), OnBase (Test), CAE (Solera - shared NXQ &amp; PreLive)</span><=
+/td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>DISC</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>PreLive (TRN)</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Staging (Unity), OnBase (Test), CAE (Solera - shared NXQ &amp; PreLive)</s=
+pan></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Unity</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>QA</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>NXQ (DISC), OnBase (Test - outgoing only)</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Unity</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Staging</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>PreLive (DISC), OnBase (Test - full integration)</span></td>
+</tr>
+</tbody>
+</table>
+</div></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Schedule</td>
+<td colspan=3D"1" class=3D"confluenceTd">UAT will need to be timeboxed. Tim=
+e allocation will be agreed upon during planning phase.&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"width: 14.1935%;" class=3D"confluenceTd">Deliverables</td>
+<td style=3D"width: 85.7258%;" class=3D"confluenceTd"><p>High level test sc=
+enarios<span style=3D"color: rgb(0,0,0);">&nbsp;</span></p><p>Test Summary =
+(#planned tests, #executed, #blocked, #passed, #failed) - This will need to=
+ be provided to the Test Analyst or the Test Lead by the UAT participant.</=
+p><p>Defects are to be captured in JIRA</p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.1935%;" class=3D"confluenceTd"><p><span>Test Data&nb=
+sp;</span></p></td>
+<td style=3D"width: 85.7258%;" class=3D"confluenceTd"><p>Manually generated=
+ data, created according to test data guidelines.</p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.1935%;" class=3D"confluenceTd"><p><span style=3D"col=
+or: rgb(0,0,0);">Test Management Tool</span></p></td>
+<td style=3D"width: 85.7258%;" class=3D"confluenceTd"><p>XRAY&nbsp;</p><p>G=
+oogle Sheets</p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.1935%;" class=3D"confluenceTd"><p><span>Coverage&nbs=
+p;</span></p></td>
+<td style=3D"width: 85.7258%;" class=3D"confluenceTd"><p>Test coverage for =
+UAT will include:</p><p><span class=3D"inline-comment-marker" data-ref=3D"3=
+9b407ec-575a-4966-9433-8498ca5f604e">&lt;List Applications being tested&gt;=
+</span></p><p><span class=3D"inline-comment-marker" data-ref=3D"39b407ec-57=
+5a-4966-9433-8498ca5f604e">&lt;Summarise business process/es covered&gt;</s=
+pan></p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.1935%;" class=3D"confluenceTd">Entry Criteria</td>
+<td style=3D"width: 85.7258%;" class=3D"confluenceTd"><p>All prior test pha=
+ses have been completed</p><p>All Severity/Priority 1 and 2 defects identif=
+ied prior test phases have been resolved</p><p>Any outstanding&nbsp;Severit=
+y/Priority 3 and 4 defects unresolved have been approved by the PO with imp=
+act, workaround, and way forward documented.</p><p>All development work has=
+ been completed with no further last minute scope to be included</p><p>List=
+ of UA Testers each with assigned High Level Test Scenarios</p><p><span sty=
+le=3D"color: rgb(0,51,102);">List of associated Hiya Business Processes -&n=
+bsp;HIYA/ knowledge page maintenance is part of the project deliverables. U=
+AT should not be dependent on these materials, as usually UAT is completed =
+first before training has completed all the documentations.</span></p></td>
+</tr>
+<tr>
+<td style=3D"width: 14.1935%;" class=3D"confluenceTd">Exit Criteria</td>
+<td style=3D"width: 85.7258%;" class=3D"confluenceTd"><p>All planned t<span=
+ style=3D"color: rgb(0,0,0);">est scenarios have been exercised by assigned=
+ resource and results captured</span></p><p><span style=3D"color: rgb(0,0,0=
+);">Identified core Business Requirements have been met</span></p><p>All Se=
+verity/Priority 1 and 2 defects identified have been resolved</p><p>Any out=
+standing&nbsp;Severity/Priority 3 and 4 defects unresolved have been approv=
+ed by the PO with impact, workaround, and way forward documented.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 63.=
+2661%;">
+<colgroup>
+<col style=3D"width: 14.0954%;">
+<col style=3D"width: 85.9471%;">
+</colgroup>
+<tbody>
+<tr>
+<td class=3D"highlight-grey confluenceTd" title=3D"Background colour : Grey=
+" colspan=3D"2" data-highlight-colour=3D"grey"><strong title=3D"">PVT/PIV</=
+strong></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Definition and Approach</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0=
+);">PVT testing is performed once all new code has been deployed in Product=
+ion with the purpose of verifying that the code has not broken core system =
+functionality and integration. </span></p><p><span style=3D"color: rgb(0,0,=
+0);">A number of E2E tests are executed to rapidly identify any introduced =
+issues before handing over to the business users.&nbsp;&nbsp;</span></p><p>=
+<span style=3D"color: rgb(0,0,0);">The purpose of PVT is not to re-test all=
+ changes that are being deployed but to simply confirm that basic core syst=
+em functionality works as expected.&nbsp;<span style=3D"color: rgb(0,0,255)=
+;"><span class=3D"inline-comment-marker" data-ref=3D"8d4ed52e-8d0a-4e75-99f=
+2-c4a0dc043563">The functionality should be identical to that tested previo=
+usly, the purpose of PVT is just to ensure that no issues were introduced i=
+n the promotion to production process. </span></span><span style=3D"color: =
+rgb(255,102,0);"><span class=3D"inline-comment-marker" data-ref=3D"8d4ed52e=
+-8d0a-4e75-99f2-c4a0dc043563">AB: Due to the time limitations we have in Pr=
+oduction we can retest everything that we are delivering. PVT should be lim=
+ited to core functionality: Quote, Payment, OPM, Claims lodgement, as well =
+as spot checking to ensure any new code or config has been deployed.</span>=
+</span></span></p><p><span style=3D"color: rgb(0,0,0);">As testing is condu=
+cted in Production, any tests policies created will need to be cancelled im=
+mediately.</span></p><p><span style=3D"color: rgb(0,0,0);">Any immediate pa=
+yments made must&nbsp;only be made using a registered Corporate credit card=
+. On completion of tests, a request must immediately be made to refund all =
+transactions.</span></p><p><span style=3D"color: rgb(0,0,0);">It will be th=
+e Testers responsibility to ensure that they are following Production testi=
+ng guidelines and also ensure they capture and data created.</span></p></td=
+>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">Responsible Roles</td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0=
+);">Test Analysts</span></p><p><span style=3D"color: rgb(0,0,0);">Business =
+Users</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>Environment</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0);">Production=
+</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>Deliverable&nbsp;</span></p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,102);">Link to=
+ PVT Test Suite documented in Xray&nbsp;(Entry Criteria)</span></p><p><span=
+ style=3D"color: rgb(0,51,102);">Link to PVT Test Results&nbsp;</span></p><=
+p><span style=3D"color: rgb(0,0,0);">Summary of all policies generated and =
+paid transactions for cancellation requests.</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Test Case Management</td>
+<td class=3D"confluenceTd"><p>Test cases and results will be captured in XR=
+AY.</p><p>PVT checklist to <span style=3D"color: rgb(0,51,102);">be complet=
+ed in Confluence together with a link to the execution.</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>Test Data&nbsp;</span></p></td>
+<td class=3D"confluenceTd">All test data created in Production will need to=
+ follow Production data strategy <span class=3D"inline-comment-marker" data=
+-ref=3D"6cff4622-04b0-487d-8a3d-6b459b3e0f2c">&lt;</span><span style=3D"col=
+or: rgb(255,102,0);"><a href=3D"/display/GWT/Data+Guidelines+for+Production=
++Testing">Data Guidelines for Production Testing</a></span>&gt;<br><br>All =
+contact information&nbsp;<strong>MUST&nbsp;</strong>be your email address a=
+nd contact number, use the Toowong residential and postal address, and cust=
+omer name must be an obvious test name.<br>eg. AGTEST-NODOCS</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>Coverage&nbsp;</span></p></td>
+<td class=3D"confluenceTd">Limited to critical happy path<span style=3D"col=
+or: rgb(0,0,0);"> scenar</span>ios, system integrations a<span style=3D"col=
+or: rgb(0,0,0);">nd high priority change management issues</span></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>Methodology</span></p></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>Entry&nbsp;</span><span>Criteria</span>=
+</p></td>
+<td class=3D"confluenceTd"><p>Successful completion of all prior test phase=
+s (ST/SIT, Regression/E2E, and UAT if applicable)&nbsp;</p><p><span style=
+=3D"color: rgb(0,0,0);">Automated PVT Test Case suite configured in associa=
+ted deployment build server.</span></p><p><span style=3D"color: rgb(0,0,0);=
+">Code has been deployed into Prod and is confirmed as being </span>availab=
+le for testing</p><p>Technical Verification Tests completed by Developers h=
+ave been completed and passed</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span>Exit&nbsp;</span><span>Criteria</span><=
+/p></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,0);">Any Automa=
+ted PV Tests that would not run have been completed man<span style=3D"color=
+: rgb(0,51,102);">ually and results documented in Xray.</span></span></p><p=
+><span style=3D"color: rgb(0,0,0);">All Production Verification tests have =
+been executed and documented&nbsp;</span></p><p><span style=3D"color: rgb(0=
+,0,0);">Any severity 1 and 2 defects have been resolved</span></p><p><span =
+style=3D"color: rgb(0,0,0);">Any outstanding Sev 3 or 4 defects have been c=
+ommunicated to the responsible Development Manager assigned to deployment.&=
+nbsp;</span></p><p><span style=3D"color: rgb(0,0,0);">Agreement that Sev 3 =
+or</span> 4 defects have a workaround and will not impact front line team m=
+embers.</p><p>All test data and payment transactions have been documented, =
+collated, and sent to relevant parties for cancellation <span style=3D"colo=
+r: rgb(128,0,128);">or withdrawal</span></p><p>All checklist have been comp=
+leted with testing evidence linked.</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br></p>
+<h2 id=3D"TestPlanTemplate-DefectManagement">Defect Management</h2>
+<p>All defects are to be raised in JIRA as per Master <a href=3D"https://co=
+nfluence.budgetdirect.com.au/display/GWT/Defect+Management++-+Draft" rel=3D=
+"nofollow">Defect Management Process</a> which will be followed across all =
+phases of testing.</p>
+<h2 id=3D"TestPlanTemplate-TestSchedule-">Test <span class=3D"inline-commen=
+t-marker" data-ref=3D"7220cdec-d9a1-4e69-96ed-5cbaa5bfac7f">Schedule</span>=
+ -</h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 45.=
+9213%;">
+<colgroup>
+<col style=3D"width: 11.826%;">
+<col style=3D"width: 15.7891%;">
+<col style=3D"width: 14.4405%;">
+<col style=3D"width: 14.6032%;">
+<col style=3D"width: 43.3945%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Tasks</th>
+<th class=3D"confluenceTh">Planned start Date</th>
+<th colspan=3D"1" class=3D"confluenceTh">Signoff Date</th>
+<th class=3D"confluenceTh">Responsible</th>
+<th colspan=3D"1" class=3D"confluenceTh"><p><span style=3D"color: rgb(128,0=
+,128);">XRAY links</span></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><span class=3D"inline-comment-marker" data-ref=
+=3D"a086ff06-0cd6-4687-bfbd-28926590adf2">Test Plan</span></td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">ST/SIT</td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Regression</td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">UAT</td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Test Summary Report</td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd">PVT</td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"TestPlanTemplate-Reporting"><span class=3D"inline-comment-marker"=
+ data-ref=3D"934376ce-ff8e-4555-a4ee-d7587c3778c5">Reporting</span></h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped relative-table confluenceTable" style=3D"width: 78.=
+3041%;">
+<colgroup>
+<col style=3D"width: 14.9465%;">
+<col style=3D"width: 51.9432%;">
+<col style=3D"width: 21.3004%;">
+<col style=3D"width: 11.8098%;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Report type</th>
+<th class=3D"confluenceTh">Purpose</th>
+<th class=3D"confluenceTh">Frequency</th>
+<th class=3D"confluenceTh">Responsible</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Test Progress Report</td>
+<td class=3D"confluenceTd"><p>Provide stakeholders visibility of testing pr=
+ogress, including current status of defects.</p><p>This report will include=
+ a dashboard from JIRA.</p></td>
+<td class=3D"confluenceTd">Dashboard to be created at start of project</td>
+<td class=3D"confluenceTd">Test Lead</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Test Summary Report</td>
+<td class=3D"confluenceTd"><p>Test Summary Report to be completed as once R=
+egression has been completed and provided to Stakeholders</p><p>To review o=
+verall Testing completed for the project.</p></td>
+<td class=3D"confluenceTd">Once per release</td>
+<td class=3D"confluenceTd">Test Lead</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"TestPlanTemplate-Roles&amp;Responsibilities">Roles &amp; Responsi=
+bilities</h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Role</th>
+<th class=3D"confluenceTh">Name/s</th>
+<th class=3D"confluenceTh">Responsibilities</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Product Owner</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,102);">Identif=
+y content of the regression test suite</span></p><p><span style=3D"color: r=
+gb(0,51,102);">Triage defects</span></p><p><span style=3D"color: rgb(0,51,1=
+02);">Sign off Priority&nbsp;1 &amp; Priority 2 defects permitted into prod=
+uction with the associated mitigation plan</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span class=3D"inline-comment-mark=
+er" data-ref=3D"75b27d02-022b-432b-912d-3004272ad724">SME</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Test Lead</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><p>Produce Test Plan</p><p>Together with Test An=
+alyst agree on test approach and coverage</p><p>Review Test Cases</p><p>Esc=
+alation point for Testing blockers</p><p>Produce Test Reports</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Test Analysts</td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,102);">Partici=
+pate in estimations</span></p><p><span style=3D"color: rgb(0,51,102);">Iden=
+tify test coverage across different test phases</span></p><p><span style=3D=
+"color: rgb(0,51,102);">Design Test Cases&nbsp;</span></p><p><span style=3D=
+"color: rgb(0,51,102);">Execute tests and log results</span></p><p><span st=
+yle=3D"color: rgb(0,51,102);">Identify/raise/re-test defects</span></p><p><=
+span style=3D"color: rgb(0,51,102);">Provide input into reporting</span></p=
+><p><span style=3D"color: rgb(0,51,102);">Carry out PVT (including manual e=
+xecution of failed automation tests)</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>Automation Engineer</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,51,=
+102);">Maintain automation suite&nbsp;</span></p><p><span style=3D"color: r=
+gb(0,51,102);">Execute and triage failed scripts</span></p><p><span style=
+=3D"color: rgb(0,51,102);">Raise defect</span></p><p><span style=3D"color: =
+rgb(0,51,102);">Uplift automated suites</span></p><p><span style=3D"color: =
+rgb(0,51,102);">Identify new automation opportunities</span></p><p><span st=
+yle=3D"color: rgb(0,51,102);">Ensure current state scripts held in PVT Depl=
+oyment Build Server</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"TestPlanTemplate-Tools"><span class=3D"inline-comment-marker" dat=
+a-ref=3D"1bbb158b-7c56-482f-ad10-25f8db336b9d">Tools</span></h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Tool</th>
+<th class=3D"confluenceTh">Description</th>
+<th class=3D"confluenceTh">Link</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">XRAY</td>
+<td class=3D"confluenceTd">Test case Management</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">JIRA</td>
+<td class=3D"confluenceTd">Defect Management</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Confluence</td>
+<td class=3D"confluenceTd"><p>Test Plan</p><p>Test Summary Report</p><p><sp=
+an style=3D"color: rgb(0,0,0);">Checklists</span></p><p><span style=3D"colo=
+r: rgb(0,0,0);">Sign off</span></p></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102=
+);">Bamboo</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,51,102=
+);">Deployment Build Server</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">Postman</td>
+<td class=3D"confluenceTd">API Testing</td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Browserstack</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Claims Compatibility Testing&nbsp;</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>SauceLabs</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(0,0,0);"=
+>Compatibility Testing</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span style=3D"color: rgb(255,102,=
+0);"><a style=3D"color: rgb(255,102,0);" href=3D"https://saucelabs.com" cla=
+ss=3D"external-link" rel=3D"nofollow">https://saucelabs.com</a></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"TestPlanTemplate-Risks&amp;Assumptions"><span class=3D"inline-com=
+ment-marker" data-ref=3D"c7a92b43-9612-4079-8698-d7e5a23abc8b">Risks &amp; =
+Assumptions</span></h2>
+<div class=3D"table-wrap">
+<table class=3D"wrapped confluenceTable">
+<colgroup>
+<col style=3D"width: 153.0px;">
+<col style=3D"width: 97.0px;">
+<col style=3D"width: 67.0px;">
+<col style=3D"width: 90.0px;">
+<col style=3D"width: 74.0px;">
+<col style=3D"width: 91.0px;">
+<col style=3D"width: 37.0px;">
+<col style=3D"width: 86.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh">Risk &amp; Assumption#</th>
+<th class=3D"confluenceTh">Description</th>
+<th class=3D"confluenceTh">Impact</th>
+<th class=3D"confluenceTh">Likelihood</th>
+<th class=3D"confluenceTh">Severity</th>
+<th class=3D"confluenceTh">Mitigation</th>
+<th colspan=3D"1" class=3D"confluenceTh"><span style=3D"color: rgb(0,51,102=
+);">Owner</span></th>
+<th class=3D"confluenceTh">Comment</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+<td colspan=3D"1" class=3D"confluenceTd"><br></td>
+<td class=3D"confluenceTd"><br></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_238715_1509485663.1683184550594--
