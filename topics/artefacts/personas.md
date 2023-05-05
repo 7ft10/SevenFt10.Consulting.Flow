@@ -63,7 +63,7 @@ If we create the persona registry as a hierarchy, we can start to segment our us
 
 From here, we can further break down the personas for our solution. If we are creating a motorcycle insurance claims solution, for example, we might look at the staff involved as this:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 As shown, we can also include the template here to help further understand the persona. Ultimately each persona will have the template filled out, but for the first cut, don't worry too much about filling it all out. Go wide first by getting all the personas, then go deep and fill out the details as required.&#x20;
 
@@ -124,7 +124,7 @@ When writing a story, you are hopefully breaking the work down from an epic or l
 
 A how-to guide to writing features can be found in Confluence. A good structure to use is the following:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you can see, this includes a list of personas, benefits, and acceptance criteria - all just as bullet points and quick notes.&#x20;
 

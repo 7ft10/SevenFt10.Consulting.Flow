@@ -4,7 +4,7 @@ _**We use this to** establish moral, work, and political rules of behaviour **so
 
 **Social contracts** set the ground rules on what is acceptable or expected behaviour, making it safe for everyone to participate. Essentially the agreement creates the norms of what is expected in the specific context of that team.
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Theory <a href="#howtoguide-socialcontract-inputs" id="howtoguide-socialcontract-inputs"></a>
 
@@ -16,7 +16,7 @@ People voluntarily give up some of their individual freedoms and enter into a co
 
 People create a social contract – an agreement to grant a limited amount of power to a government in exchange for some of their personal freedom so they can live together peacefully.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Good starting questions to ask to get the team thinking are:
 

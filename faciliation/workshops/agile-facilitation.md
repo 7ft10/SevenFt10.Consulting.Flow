@@ -32,7 +32,7 @@ As individuals, when presented with problems to solve, we typically make a decis
 
 You can find a more detailed breakdown of these approaches and the benefits and hindrances they can introduce with too much reliance on one or the other.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Abstract**
 
@@ -46,7 +46,7 @@ Taking a fact-based approach, the facilitator will tend to lean heavily on suppo
 
 As a facilitator, you'll be positioned to shape conversations and interactions with your chosen stance. It's helpful to take a moment to reflect on the objective of the meeting/workshop and those involved. You may choose to adopt an active position and drive the interactions or make time in the interactions for some reflective conclusions. Below is a breakdown of the benefits and hindrances that can be introduced with too much reliance on either.
 
-![](<../../.gitbook/assets/image (36).png>)
+![](<../../.gitbook/assets/image (36) (1).png>)
 
 #### **Active**
 

@@ -1,7 +1,35 @@
 # Table of contents
 
-* [Getting Started](README.md)
-  * [Dev Sec Ops](getting-started/dev-sec-ops.md)
+* [Welcome!](README.md)
+
+## Agility & Transformations
+
+* [What does agile mean?](agility-and-transformations/what-does-agile-mean/README.md)
+  * [Manifesto & Principles](agility-and-transformations/what-does-agile-mean/manifesto-and-principles.md)
+* [What Is An Agile Transformation?](agility-and-transformations/what-is-an-agile-transformation.md)
+* [Why Transform?](agility-and-transformations/why-transform/README.md)
+  * [Challenge "Won't Work Here"](agility-and-transformations/why-transform/challenge-wont-work-here.md)
+* [What Is An Agile Mindset?](agility-and-transformations/what-is-an-agile-mindset.md)
+* [How Is The Transformation Done?](agility-and-transformations/how-is-the-transformation-done.md)
+* [Who Transforms?](agility-and-transformations/who-transforms.md)
+* [Which Areas or Functions Transform?](agility-and-transformations/which-areas-or-functions-transform.md)
+* [How Long Does A Transformation Take?](agility-and-transformations/how-long-does-a-transformation-take.md)
+
+## Idea Model
+
+* [Intro to IDEA](idea-model/intro-to-idea/README.md)
+  * [Leadership-Strip (Tanzaku)](idea-model/intro-to-idea/leadership-strip-tanzaku.md)
+* [Initial Exposure](idea-model/initial-exposure.md)
+* [Develop Basics](idea-model/develop-basics.md)
+* [Evolve & Reflect](idea-model/evolve-and-reflect.md)
+* [Accelerate & Kaizen](idea-model/accelerate-and-kaizen.md)
+* [Metrics](idea-model/metrics.md)
+* [Managing the Change](idea-model/managing-the-change.md)
+
+## Flow Model
+
+* [Intro to Flow](flow-model/intro-to-flow/README.md)
+  * [Dev Sec Ops](flow-model/intro-to-flow/dev-sec-ops.md)
 
 ## Modes
 
@@ -30,11 +58,6 @@
   * [Outputs](modes/complete/outputs.md)
 * [Check](modes/check/README.md)
   * [Process](modes/check/process.md)
-
-## Agility
-
-* [What does agile mean?](agility/what-does-agile-mean.md)
-* [Manifesto & Principles](agility/manifesto-and-principles.md)
 
 ## Roles & Responsibilities
 
@@ -110,15 +133,26 @@
 
 * [Workshops](faciliation/workshops/README.md)
   * [Agile Facilitation](faciliation/workshops/agile-facilitation.md)
+  * [Planning and Running a Workshop](faciliation/workshops/planning-and-running-a-workshop.md)
 * [Meetings](faciliation/meetings/README.md)
   * [Good Meetings](faciliation/meetings/good-meetings.md)
   * [Icebreakers](faciliation/meetings/icebreakers.md)
+* [Games](faciliation/games/README.md)
+  * [Town Hall Game](faciliation/games/town-hall-game.md)
+  * [Battleships](faciliation/games/battleships.md)
+  * [Kanban Pizza Game](faciliation/games/kanban-pizza-game.md)
+* [Icebreakers](faciliation/icebreakers/README.md)
+  * [Check Your Personal Thinking Style](faciliation/icebreakers/check-your-personal-thinking-style.md)
+  * [Mind Styles](faciliation/icebreakers/mind-styles.md)
+  * [Streats Ahead](faciliation/icebreakers/streats-ahead.md)
+  * [Value Cards](faciliation/icebreakers/value-cards.md)
 
 ## Tools
 
 * [Miro](tools/miro/README.md)
   * [Miro Usage](tools/miro/miro-usage.md)
 * [Jira](tools/jira/README.md)
+  * [End User Best Practice](tools/jira/end-user-best-practice.md)
   * [Printing Physical Cards](tools/jira/printing-physical-cards.md)
 * [Confluence](tools/confluence/README.md)
   * [Example Confluence Layout](tools/confluence/example-confluence-layout.md)
@@ -126,3 +160,4 @@
 ## FAQs
 
 * [Frequently Asked Questions](faqs/frequently-asked-questions.md)
+* [Glossary of Terms](faqs/glossary-of-terms.md)

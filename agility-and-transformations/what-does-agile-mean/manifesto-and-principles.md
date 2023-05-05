@@ -9,5 +9,5 @@ The [Agile Manifesto](https://agilemanifesto.org/) outlines twelve principles, w
 
 These principles can help shape and educate your teams and interactions to maximize engagement and generate value from collaborations.
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
