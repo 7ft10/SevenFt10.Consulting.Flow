@@ -1,5 +1,9 @@
 # Risk-Based Testing
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 ## Analyse
 
 Analyse all Stories for the sprint and assess what Business functions/areas will be affected by them&#x20;

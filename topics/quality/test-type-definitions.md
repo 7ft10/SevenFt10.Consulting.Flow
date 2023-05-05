@@ -1,5 +1,9 @@
 # Test Type Definitions
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 ## Unit Test (UT)&#x20;
 
 * Low-level, focusing on a small part of the software such as a Java class or Angular component together with associated collaborators

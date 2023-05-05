@@ -1,6 +1,8 @@
 # Stand-up
 
-_**We use this to** make a quick plan for the day, **so that we can** understand what is going on in the team and plan out any interactions that may be required to get work items done._
+{% hint style="success" %}
+_**We use this to** make a quick plan for the day **so that we can** understand what is going on in the team and plan out any interactions that may be required to get work items done._
+{% endhint %}
 
 A stand-up is a simple on-the-go, time-boxed 15-minute session where all members of the squad either stand or virtually get together and set the context for the coming day's work. The daily stand-up is important because it gives the team an opportunity to talk about both the negative and positive effects of their work. The team learn from one another and sees what can be improved upon.
 

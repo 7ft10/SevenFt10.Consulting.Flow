@@ -1,8 +1,8 @@
 # Release Planning
 
-_**We use this to** evaluate how the last time-box, or work item/release went, specifically around the team dynamic, processes, and tools, **so that we can** articulate and stack rank the items that went well, and those items that did not to implement a plan for improving the way the team does work._
-
-
+{% hint style="success" %}
+_**We use this to** evaluate how the last time-box or work item/release went, specifically around the team dynamic, processes, and tools, **so that we can** articulate and stack rank the items that went well and those items that did not implement a plan for improving the way the team does work._
+{% endhint %}
 
 ## Reminder!  <a href="#howtoguide-releaseplanning-reminder" id="howtoguide-releaseplanning-reminder"></a>
 

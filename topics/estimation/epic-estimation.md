@@ -1,8 +1,12 @@
 # Epic Estimation
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-This is determined during Commence phase.&#x20;
+This is determined during Commence mode.&#x20;
 
 ## Example
 

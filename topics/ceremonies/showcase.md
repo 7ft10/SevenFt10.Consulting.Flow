@@ -1,6 +1,8 @@
 # Showcase
 
-_**We use this to** share progress on an initiative, with interested parties, stakeholders, and teams, **so that we can** ensure we have the right level of communication for each of our initiatives._ &#x20;
+{% hint style="success" %}
+_**We use this to** share progress on an initiative with interested parties, stakeholders, and teams **so that we can** ensure we have the right level of communication for each of our initiatives._ &#x20;
+{% endhint %}
 
 ## Overview <a href="#howtoguide-showcase-overview" id="howtoguide-showcase-overview"></a>
 

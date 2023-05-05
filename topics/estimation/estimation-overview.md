@@ -1,22 +1,14 @@
 # Estimation Overview
 
-### _**We use this to** properly plan, manage and understand the total efforts, **so that we can** implement, test and deliver the desired product to the customers._ <a href="#howtoguide-estimation-weusethistoproperlyplan-manageandunderstandthetotalefforts-sothatwecanimplemen" id="howtoguide-estimation-weusethistoproperlyplan-manageandunderstandthetotalefforts-sothatwecanimplemen"></a>
+{% hint style="success" %}
+_**We use this to** properly plan, manage and understand the total efforts **so that we can** implement, test and deliver the desired product to the customers._
+{% endhint %}
 
-***
-
-\
-
-
-## **Overview** <a href="#howtoguide-estimation-overview" id="howtoguide-estimation-overview"></a>
-
-The 2 cornerstones of any Project, are Planning and Estimation.&#x20;
+The two cornerstones of any piece of work are Planning and Estimation.&#x20;
 
 In an agile project, estimation of the work/sizing of the work is done at various levels, with different stakeholders and using different techniques.
 
-\
-
-
-Why Estimate:
+## Why Estimate?
 
 1\. Improved Decision-Making\
 With accurate, agile estimation, the development team will be able to conduct effective backlog grooming sessions, which will further help in precise sprint planning. When they make informed decisions and plan well, their user story delivery time will improve.
@@ -46,24 +38,11 @@ These then get broken down further into user stories "Bedroom","Bathroom", "Back
 Like the project schedules in the project management framework, the deliverables are decomposed into the tasks or activities even in agile framework. User stories are estimated in story point, and the tasks are estimated in hours.
 
 \
-
-
-![](https://confluence.budgetdirect.com.au/download/attachments/350299006/image2021-9-28\_8-58-51.png?version=1\&modificationDate=1632801063224\&api=v2)
-
-### **Pre-requisites for estimation** <a href="#howtoguide-estimation-pre-requisitesforestimation" id="howtoguide-estimation-pre-requisitesforestimation"></a>
-
-\
-
-
-\
-
+**Pre-requisites for estimation**
 
 1. Prioritized backlog - Product Owner works closely with the BA's and the business to organize a prioritized backlog of user stories. Different forums like Refinement sessions are used to understand the requirements and prioritize them well.
 2. User stories with acceptance criteria - Product Owner works with the BA's to create clear, precise and testable acceptance criteria along with the **TEAM**. Backlog grooming sessions are forums used to Groom the stories with the team
 3. Understanding of estimation technique - Scrum Master works with the team to derive a common understanding of the estimation technique and the units of estimation
-
-\
-
 
 ## **Techniques for estimation** <a href="#howtoguide-estimation-techniquesforestimation" id="howtoguide-estimation-techniquesforestimation"></a>
 
@@ -90,16 +69,7 @@ Like the project schedules in the project management framework, the deliverables
 
 **Poker planning resources**
 
-\
-
-
-![](https://confluence.budgetdirect.com.au/plugins/servlet/confluence/placeholder/unknown-attachment?locale=en\_US)
-
-2\.&#x20;
-
-[![](https://confluence.budgetdirect.com.au/download/attachments/350299006/image2021-5-13\_18-2-54.png?version=1\&modificationDate=1620892974418\&api=v2)](https://www.youtube.com/watch?v=gE7srp2BzoM)
-
-## **Not everything can be estimated..!** <a href="#howtoguide-estimation-noteverythingcanbeestimated.." id="howtoguide-estimation-noteverythingcanbeestimated.."></a>
+**Not everything can be estimated..!**
 
 There are scenarios where the team may not have all the details required to estimate or there may be uncertainties about technical implementation. In agile, the teams then use a time boxed activity called as a spike, to investigate further, gather more information about the user stories that they need to estimate.
 

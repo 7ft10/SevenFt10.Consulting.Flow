@@ -1,6 +1,8 @@
 # Accountability Cards
 
-## Description <a href="#accountabilitycard-description" id="accountabilitycard-description"></a>
+{% hint style="success" %}
+_**We use this to** .... **so that we can** ...._ &#x20;
+{% endhint %}
 
 Accountability cards are a technique that individuals and teams can use to reflect, improve and commit to new habits, which in turn can lead to increased performance.
 

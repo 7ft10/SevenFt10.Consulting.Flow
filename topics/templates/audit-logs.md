@@ -1,5 +1,9 @@
 # Audit Logs
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 ## Log management <a href="#template-auditlogs-logmanagement" id="template-auditlogs-logmanagement"></a>
 
 Log management is the process of generating, analyzing, and storing logs. Organizations that develop best practices in log management will get timely analysis of their security profile for security operations, ensure that logs are kept in sufficient detail for the appropriate period of time to meet audit and compliance requirements, and have reliable evidence for use in investigations.

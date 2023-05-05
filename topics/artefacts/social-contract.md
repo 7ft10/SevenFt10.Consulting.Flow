@@ -1,6 +1,8 @@
 # Social Contract
 
+{% hint style="success" %}
 _**We use this to** establish moral, work, and political rules of behaviour **so that we can** hold each other accountable._
+{% endhint %}
 
 **Social contracts** set the ground rules on what is acceptable or expected behaviour, making it safe for everyone to participate. Essentially the agreement creates the norms of what is expected in the specific context of that team.
 

@@ -1,11 +1,13 @@
 # Success Sliders
 
-_**We use this to** prioritise what is most important to focus on for this initiative, **so that we can** quickly make decisions throughout delivery._&#x20;
+{% hint style="success" %}
+_**We use this to** prioritise what is most important to focus on for this initiative **so that we can** quickly make decisions throughout delivery._&#x20;
+{% endhint %}
 
-## How To&#x20;
+## How To
 
 * List the key constraints/success criteria as rows
-* For each constraint/criteria, create a column
+* For each constraint/criterion, create a column
 * Select which “end” is to be Flexible, which is to be Fixed
 * Discuss the arrangement of constraints/ criteria on this continuum
 

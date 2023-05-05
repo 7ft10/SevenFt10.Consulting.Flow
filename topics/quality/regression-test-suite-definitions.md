@@ -1,5 +1,9 @@
 # Regression Test Suite Definitions
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 ## Compile (COP)
 
 A suite of fast-running unit and integration tests run for the purpose of fast feedback for a developer who wants to ensure that there are no regression issues introduced into existing functionality as new functionality is being built.

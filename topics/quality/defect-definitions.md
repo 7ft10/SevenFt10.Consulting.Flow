@@ -1,5 +1,9 @@
 # Defect Definitions
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 Defects can be defined as an anomaly or error which causes a deviation between actual results and the expected results.
 
 A Defect can occur due to multiple reasons, such as an error in logic, code, or configuration which will cause unpredicted/unanticipated results.

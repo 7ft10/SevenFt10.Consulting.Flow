@@ -1,5 +1,9 @@
 # Acceptance Criteria (AC)
 
+{% hint style="success" %}
+_**We use this to** .... **so that we can** ...._ &#x20;
+{% endhint %}
+
 These basically form the boundary or scope of your Story, if you will. Technically, anything that falls outside of the acceptance criteria is not to be built as part of the story.
 
 ACs sometimes could have:
@@ -14,15 +18,15 @@ And less often have:
 
 **Abstract**&#x20;
 
-A test is readable as a document describing system behaviour. Amplify your test's essential elements, and bury its irrelevant details and clutter. **Anyone, including non-techies, should be able to follow the steps taken in the test, and understand why it passes**.
+A test is readable as a document describing system behaviour. Amplify your test's essential elements, and bury its irrelevant details and clutter. **Anyone, including non-techies, should be able to follow the steps taken in the test and understand why it passes**.
 
 **Bona fide**
 
-To ensure continual customer trust, a test must always truly exercise a system **as close to production as possible**. Passing acceptance tests tell the customer that what they asked for is complete and working.
+To ensure continual customer trust, a test must always truly exercise a system **as close to production as possible**. Passing acceptance tests tells the customer that what they asked for is complete and working.
 
 **Cohesive**
 
-**A test expresses one goal** accomplished by interacting with the system. Don't prematurely optimize by combining multiple scenarios into a single test
+**A test expresses one goal** accomplished by interacting with the system. Don't prematurely optimize by combining multiple scenarios into a single test.
 
 **Decoupled**
 

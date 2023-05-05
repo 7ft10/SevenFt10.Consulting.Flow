@@ -1,5 +1,9 @@
 # Scrum of Scrums
 
+{% hint style="success" %}
+_**We use this to** .... **so that we can** ...._ &#x20;
+{% endhint %}
+
 We use this to coordinate smaller, independent teams to acts as a single release team, so that we can not only coordinate delivery, but ensure a fully integrated product at the end of every sprint. Overview Scrum of Scrums (SoS) is..
 
 Where members of each Scrum team come together to perform a higher-level equivalent of the daily scrum. Not held every day but instead a few times a week as needed (Tues & Thurs at A\&G). Each team determines which member to send based on who can best speak to the inter-team dependency issues. For SoS at A\&G we send the Scrum Master and a Team member.

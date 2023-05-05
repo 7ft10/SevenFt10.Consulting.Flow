@@ -1,6 +1,8 @@
 # Quarterly Planning
 
+{% hint style="success" %}
 _**We use this to** define goals for the upcoming quarter for each delivery area and determine whether there are any further considerations that must be made before the planned activity commences **so that we can** ensure our plan is realistic and will achieve value for the business._ &#x20;
+{% endhint %}
 
 Quarterly planning is when the business defines the goals for the quarter and their metrics for the teams to commit to a feature roadmap.
 

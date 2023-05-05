@@ -1,6 +1,8 @@
 # Sprint / Iteration Planning
 
+{% hint style="success" %}
 _**We use this to** set the team up for success with clear goals and expectations **so that we can** all be on the same page about what the iteration is trying to achieve._
+{% endhint %}
 
 ## Overview <a href="#howtoguide-sprintplanning-overview" id="howtoguide-sprintplanning-overview"></a>
 

@@ -1,6 +1,8 @@
 # Definition of Done
 
-_**We use this to** gain a common understanding within the team about exactly what is expected to be delivered**, so that we can** ensure transparency and quality fit for the purpose solution development._&#x20;
+{% hint style="success" %}
+_**We use this to** gain a common understanding within the team about exactly what is expected to be delivered **so that we can** ensure transparency and quality fit for the proposed solution development._&#x20;
+{% endhint %}
 
 Definition of Done (DoD) refers to all the work needed to deliver a quality solution - ALL the work!
 

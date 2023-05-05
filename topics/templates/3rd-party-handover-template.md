@@ -1,21 +1,25 @@
 # 3rd Party Handover Template
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 The following sections outlines the hand over areas to consider when handing over from the project team to the a 3rd Party or external party.
 
 ### Training <a href="#template-3rdpartyhandoverdocuments-training" id="template-3rdpartyhandoverdocuments-training"></a>
 
 Outline the staff members involved and how those staff who will provide ongoing support and management of the system will be trained and to what level.  This could be:
 
-* On the job training (post-implementation)
+* On-the-job training (post-implementation)
 * Secondment to the project
 * Overview sessions
 * Teach themselves
-* Already have the skills (in existing staff, or staff to be recruited)
+* Already have the skills (in existing staff or staff to be recruited)
 * Other
 
 ### Equipment <a href="#template-3rdpartyhandoverdocuments-equipment" id="template-3rdpartyhandoverdocuments-equipment"></a>
 
-Provide details of the equipment that the Project has delivered into the Production environment such as:
+Provide details of the equipment that the Project has delivered into the Production environment, such as:
 
 * Outline how the equipment mentioned in Section 2 will be moved or disposed of, when, etc.
 * When does responsibility move from the project team to the Production Support Team/s.

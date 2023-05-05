@@ -1,6 +1,10 @@
 # Test Strategy
 
-_**We use this to** define the testing guidelines and approach on what and how to test the target application(s), **so that we can** have well-defined testing and test coverage objectives._&#x20;
+{% hint style="success" %}
+_**We use this to** define the testing guidelines and approach on what and how to test the target application(s) **so that we can** have well-defined testing and test coverage objectives._&#x20;
+{% endhint %}
+
+
 
 ## References&#x20;
 

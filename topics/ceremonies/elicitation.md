@@ -1,5 +1,9 @@
 # Elicitation
 
+{% hint style="success" %}
+_**We use this to** .... **so that we can** ...._ &#x20;
+{% endhint %}
+
 Elicitation is the obtaining of information from the right stakeholders and other relevant sources.  The main purpose is to draw out, explore and identify information relevant to the change.  It is the main path to discovering:
 
 * requirements

@@ -1,6 +1,10 @@
 # User Stories
 
+{% hint style="success" %}
 _**We use this to** capture a user's want or need quickly and the benefit that they feel that implementing this will bring **so that we can** have a starting point for a conversation with the customer or Product Owner._&#x20;
+{% endhint %}
+
+
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 

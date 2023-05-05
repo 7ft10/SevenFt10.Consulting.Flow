@@ -1,3 +1,7 @@
+---
+description: aka concept
+---
+
 # Conceptualise
 
 Is this the right work to do? Is this the right time to do the work? Should we progress to initiate?

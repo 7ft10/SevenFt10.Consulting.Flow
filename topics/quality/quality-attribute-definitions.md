@@ -1,5 +1,9 @@
 # Quality Attribute Definitions
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 ## Correctness
 
 Features and constituent functionality work as intended

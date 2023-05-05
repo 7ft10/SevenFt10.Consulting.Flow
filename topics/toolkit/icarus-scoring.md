@@ -1,6 +1,8 @@
 # ICaRuS Scoring
 
-## What is ICaRuS Scoring? <a href="#icarusscoring-whatisicarusscoring" id="icarusscoring-whatisicarusscoring"></a>
+{% hint style="success" %}
+_**We use this to** .... **so that we can** ...._ &#x20;
+{% endhint %}
 
 ICaRuS scoring is a prioritisation method built on concepts like WSJF and the GIST framework. It takes into account the impact areas that Auto & General are currently focused on and uses a mathematical calculation to arrive at a number that can be used to prioritise against other Opportunities.&#x20;
 

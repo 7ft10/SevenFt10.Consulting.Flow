@@ -1,5 +1,9 @@
 # Elaboration
 
+{% hint style="success" %}
+_**We use this to** .... **so that we can** ...._ &#x20;
+{% endhint %}
+
 ### **Purpose** <a href="#howtoguide-elicitationandelaboration-purpose" id="howtoguide-elicitationandelaboration-purpose"></a>
 
 Whole team to have an aligned understanding and intent behind each feature/function (broken up into Stories) that is to be implemented.  Fundamentally create a shared understanding of each Story across the team in order to draw on the collective mindset, transfer knowledge across the team.

@@ -1,5 +1,9 @@
 # Tech Spike
 
+{% hint style="success" %}
+_**We use this to** .... **so that we can** ...._ &#x20;
+{% endhint %}
+
 Tech Spikes help us understand how we are going to solve a challenging problem. They help us step outside the current flow of development to increase understanding and reduce uncertainty.  \
 \
 **The key characteristics of a Tech Spike** **are:**

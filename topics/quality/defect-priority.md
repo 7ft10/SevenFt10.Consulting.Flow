@@ -1,5 +1,9 @@
 # Defect Priority
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 Defect Priority is defined as the order in which a defect should be fixed. The Higher the priority, the sooner it will be fixed.&#x20;
 
 Any defect that results in the System/Application being unusable is given a higher priority than those that cause minor functionality failures.

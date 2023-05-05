@@ -1,8 +1,8 @@
 # Personas
 
+{% hint style="success" %}
 _**We use this to** guide us when developing a product that fits the needs of a specific type of end-user or multiple types of end-users **so that we can** decide whether to add specific features, interactions, or visual cues to the product._
-
-## **Overview** <a href="#howtoguide-personas-overview" id="howtoguide-personas-overview"></a>
+{% endhint %}
 
 Personas are a powerful technique to capture our knowledge about the users and customers of a product.&#x20;
 
@@ -104,7 +104,7 @@ Each solution should start with the global persona set and use what they can - i
 
 ## **Procedure** <a href="#howtoguide-personas-procedure" id="howtoguide-personas-procedure"></a>
 
-Typically personas are created as part of a larger workshop, either in concept or initiate phases.&#x20;
+Typically personas are created as part of a larger workshop, either in Conceptualise or Commence modes.&#x20;
 
 While understanding the problem and breaking the problem down into smaller, more manageable problems, a set of personas will present themselves. At first, just capture all the "names" of the personas - don't worry about the hierarchy yet. Let this happen organically - just listen for the names as they are spoken in terms of the problems.&#x20;
 

@@ -1,5 +1,9 @@
 # Defect Severity
 
+{% hint style="success" %}
+_**We use this to** ... **so that we can** ..._
+{% endhint %}
+
 Defect Severity is defined as the degree of impact a defect[ ](https://www.guru99.com/defect-management-process.html)has on the software application under test. A higher effect of the defect on system functionality will lead to a higher severity level.&#x20;
 
 The Test Analyst will initially determine the Severity level of the defect based on a combination of their own system knowledge and impact on their testing.

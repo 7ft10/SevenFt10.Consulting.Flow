@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>How do I know when to move from one phase to the next? e.g. Conceptualise to Commence</summary>
+<summary>How do I know when to move from one mode phaseto the next? e.g. Conceptualise to Commence</summary>
 
 When you have "**Just Enough**" information and our stakeholders are satisfied that we have done enough to justify additional time and money to be spent on solving the problem.&#x20;
 
