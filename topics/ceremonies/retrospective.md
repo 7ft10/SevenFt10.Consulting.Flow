@@ -69,7 +69,7 @@ There are five steps to a good retro:&#x20;
 
 Taken from “Agile Retrospectives” by Esther Derby and Diana Larsen
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### ![](https://confluence.budgetdirect.com.au/download/attachments/350297573/image2021-3-16\_11-31-50.png?version=1\&modificationDate=1615858310301\&api=v2)Step 1. Set the stage  <a href="#howtoguide-retrospectives-step1.setthestage" id="howtoguide-retrospectives-step1.setthestage"></a>
 

@@ -10,13 +10,13 @@ As a facilitator, it's important to be conscious of your stance. Each individual
 
 It's valuable to identify which stance you align with as you can make conscious steps towards including aspects of the opposite mindset to ensure a balanced arsenal of techniques and processes to be as adaptive as possible.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Commanding & Passive <a href="#howtoguide-agilefacilitationtechniques-and-identification-commanding-and-passive" id="howtoguide-agilefacilitationtechniques-and-identification-commanding-and-passive"></a>
 
 When facilitating a meeting, it's possible to adopt either a commanding or passive approach. Each of these stances bring value; however, it's important to find a healthy balance. Below is a breakdown of the benefits and hindrances that can be introduced with too much reliance on either.
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Commanding**
 

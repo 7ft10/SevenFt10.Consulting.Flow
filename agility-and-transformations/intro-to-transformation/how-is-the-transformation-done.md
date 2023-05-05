@@ -27,6 +27,6 @@ Approaches&#x20;
 * Business Lead &#x20;
 * Fully Aligned &#x20;
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)

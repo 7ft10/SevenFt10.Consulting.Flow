@@ -4,27 +4,27 @@
 
 ## Agility & Transformations
 
-* [What does agile mean?](agility-and-transformations/what-does-agile-mean/README.md)
-  * [Manifesto & Principles](agility-and-transformations/what-does-agile-mean/manifesto-and-principles.md)
-* [What Is An Agile Transformation?](agility-and-transformations/what-is-an-agile-transformation.md)
-* [Why Transform?](agility-and-transformations/why-transform/README.md)
-  * [Challenge "Won't Work Here"](agility-and-transformations/why-transform/challenge-wont-work-here.md)
-* [What Is An Agile Mindset?](agility-and-transformations/what-is-an-agile-mindset.md)
-* [How Is The Transformation Done?](agility-and-transformations/how-is-the-transformation-done.md)
-* [Who Transforms?](agility-and-transformations/who-transforms.md)
-* [Which Areas or Functions Transform?](agility-and-transformations/which-areas-or-functions-transform.md)
-* [How Long Does A Transformation Take?](agility-and-transformations/how-long-does-a-transformation-take.md)
+* [Intro to Agile](agility-and-transformations/intro-to-agile/README.md)
+  * [What does agile mean?](agility-and-transformations/intro-to-agile/what-does-agile-mean.md)
+  * [What Is An Agile Mindset?](agility-and-transformations/intro-to-agile/what-is-an-agile-mindset.md)
+* [Intro to Transformation](agility-and-transformations/intro-to-transformation/README.md)
+  * [What Is An Agile Transformation?](agility-and-transformations/intro-to-transformation/what-is-an-agile-transformation.md)
+  * [Why Transform?](agility-and-transformations/intro-to-transformation/why-transform.md)
+  * [How Is The Transformation Done?](agility-and-transformations/intro-to-transformation/how-is-the-transformation-done.md)
+  * [Who Transforms?](agility-and-transformations/intro-to-transformation/who-transforms.md)
+  * [Which Areas or Functions Transform?](agility-and-transformations/intro-to-transformation/which-areas-or-functions-transform.md)
+  * [How Long Does A Transformation Take?](agility-and-transformations/intro-to-transformation/how-long-does-a-transformation-take.md)
 
 ## Idea Model
 
 * [Intro to IDEA](idea-model/intro-to-idea/README.md)
   * [Leadership-Strip (Tanzaku)](idea-model/intro-to-idea/leadership-strip-tanzaku.md)
+  * [Metrics](idea-model/intro-to-idea/metrics.md)
+  * [Managing the Change](idea-model/intro-to-idea/managing-the-change.md)
 * [Initial Exposure](idea-model/initial-exposure.md)
 * [Develop Basics](idea-model/develop-basics.md)
 * [Evolve & Reflect](idea-model/evolve-and-reflect.md)
 * [Accelerate & Kaizen](idea-model/accelerate-and-kaizen.md)
-* [Metrics](idea-model/metrics.md)
-* [Managing the Change](idea-model/managing-the-change.md)
 
 ## Flow Model
 
@@ -80,7 +80,7 @@
   * [Solution Architect](roles-and-responsibilities/extended-team-roles/solution-architect.md)
   * [Delivery Manager](roles-and-responsibilities/extended-team-roles/delivery-manager.md)
   * [Change Analyst](roles-and-responsibilities/extended-team-roles/change-analyst.md)
-* [Trusted Advisor Roles](roles-and-responsibilities/trusted-advisor-roles/README.md)
+* [Trusted Advisor Roles](roles-and-responsibilities/trusted-advisor-roles.md)
   * [Project Sponsor](roles-and-responsibilities/trusted-advisor-roles/project-sponsor.md)
   * [Stakeholders](roles-and-responsibilities/trusted-advisor-roles/stakeholders.md)
 
@@ -123,11 +123,27 @@
 * [Templates](topics/templates/README.md)
   * [3rd Party Handover Template](topics/templates/3rd-party-handover-template.md)
   * [Audit Logs](topics/templates/audit-logs.md)
-* [Change Management](topics/change-management.md)
 * [Estimation](topics/estimation/README.md)
   * [Estimation Overview](topics/estimation/estimation-overview.md)
   * [Epic Estimation](topics/estimation/epic-estimation.md)
   * [Initiative Estimation](topics/estimation/initiative-estimation.md)
+
+## 3C Change Model
+
+* [Intro to 3C Change](3c-change-model/intro-to-3c-change/README.md)
+  * [What is Change?](3c-change-model/intro-to-3c-change/what-is-change.md)
+  * [What is change management?](3c-change-model/intro-to-3c-change/what-is-change-management/README.md)
+    * [7Rs of Change Management](3c-change-model/intro-to-3c-change/what-is-change-management/7rs-of-change-management.md)
+* [Capture](3c-change-model/capture/README.md)
+  * [Priority](3c-change-model/capture/priority.md)
+  * [Experience](3c-change-model/capture/experience.md)
+  * [Impact](3c-change-model/capture/impact.md)
+* [Consider](3c-change-model/consider/README.md)
+  * [Risk](3c-change-model/consider/risk.md)
+* [Conduct](3c-change-model/conduct/README.md)
+  * [Plan](3c-change-model/conduct/plan.md)
+  * [Perform](3c-change-model/conduct/perform.md)
+  * [Prove](3c-change-model/conduct/prove.md)
 
 ## Faciliation
 

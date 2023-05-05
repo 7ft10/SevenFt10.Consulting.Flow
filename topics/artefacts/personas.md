@@ -28,7 +28,7 @@ Personas provide you with the opportunity to integrate real User Experience thro
 
 Personas are a major part of the user story-writing ceremony. Without them, we do not know who the work is for.
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 
 A simple template is used and can be customised based on your needs, but these are probably all you need to get started - too much detail, and they become useless. Too little, and they are too generic - finding the sweet spot will be up to you.&#x20;
 
@@ -63,13 +63,13 @@ If we create the persona registry as a hierarchy, we can start to segment our us
 
 From here, we can further break down the personas for our solution. If we are creating a motorcycle insurance claims solution, for example, we might look at the staff involved as this:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As shown, we can also include the template here to help further understand the persona. Ultimately each persona will have the template filled out, but for the first cut, don't worry too much about filling it all out. Go wide first by getting all the personas, then go deep and fill out the details as required.&#x20;
 
 The same can be done for the other global personas:
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 The policyholder is one of our primary personas; therefore, more detail should be provided here. There may be personas that are identified but not used for this solution, e.g. "School Runner", - but don't waste the data. Make sure that you capture it, as it will undoubtedly help other teams later.&#x20;
 
@@ -87,7 +87,7 @@ Each solution should start with the global persona set and use what they can - i
 \
 
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Inputs & Outputs**&#x20;
 
@@ -116,7 +116,7 @@ If there is already a global set of personas, make sure to bring them along. The
 
 When you think that you have enough, then you can rearrange the personas into a tree. Don't worry if it's not perfect or a "valid tree" - the point is to see the problem from all perspectives to figure out where the benefits reside.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Additional Uses: As a story-writing aide** <a href="#howtoguide-personas-additionaluses-asastorywritingaide" id="howtoguide-personas-additionaluses-asastorywritingaide"></a>
 
@@ -136,7 +136,7 @@ This helps validate that we have got all the right personas, as usually, you wan
 
 We can then create a simple matrix of acceptance criteria (AC) and benefits (BN) vs each of our personas by placing a tick in each box.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 
 Some boxes may have more than one tick. Some might have none. But if a persona has no ticks at all, then we can question if there are actually personas included in our solution at all - or do we have the wrong AC/BN captured?&#x20;
 
@@ -152,7 +152,7 @@ This helps to remove the age-old problem of "Which user can I use?" or "What is 
 
 For example, our MC commuter could be any of the following:
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Furthermore, this can be automated quite easily, especially when using tools like BDD and Gherkin language, which allows for rows of tabular data to be injected into each iterative run of a test.  &#x20;
 

@@ -86,7 +86,7 @@ Then starting filling the buckets from left to right - based on the sum of story
 
 ### Avoid! <a href="#howtoguide-releaseplanning-avoid" id="howtoguide-releaseplanning-avoid"></a>
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42) (1).png" alt=""><figcaption></figcaption></figure>
 
 Avoid creating a Gannt chart for your release plan as this will almost always end up with a Analysis/Dev/Test waterfall (and test will always be bumped into the 'next iteration') - this doesn't lead to thinking about "team work". Instead by thinking about what done means we can plan to complete all the things required to finish the work items within the timebox - if we can't complete everything then maybe its too big or maybe there is another way to split the work so that there is something valuable ready at the end of the timebox.&#x20;
 

@@ -15,3 +15,5 @@ Not best but better &#x20;
 Change is a process not an event. &#x20;
 
 Transformation is setting up a continuous process not a (temporal) project. &#x20;
+
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
