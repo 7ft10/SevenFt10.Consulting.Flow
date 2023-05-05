@@ -20,7 +20,9 @@ It’s important to be cognisant about where you sit with each team you’re inv
 
 Generally speaking, the further you sit from the centre of the graphic above will translate to less day-to-day detail of the team you are involved with.
 
-A role is a function that a team member performs on a team. A team member may have more than one role on each team\
+A role is a function that a team member performs on a team. A team member may have more than one role on each team.\
 
 
-End to end (E-2-E) Teams are long lived teams with team members growing their knowledge in the business domain over time. The Business Owner/Product Manager is accountable for the delivery and business outcomes for the team Teams are designed to be autonomous and accountable through transparency. Success Sliders defined by the Business Owner/Product Manager provide the guide rails for success.
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+Teams are long-lived teams with team members growing their knowledge in the business domain over time. The Business Owner/Product Manager is accountable for the delivery and business outcomes for the team. Teams are designed to be autonomous and accountable through transparency. Success Sliders defined by the Business Owner/Product Manager provide the guide rails for success.

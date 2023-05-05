@@ -119,7 +119,7 @@ This step involves creating the outputs. Some questions that you can ask are:
 
 Remember that you cannot control everything within your environment, sometimes, we can only influence (see Locus of Control).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 5. Close The Retrospective <a href="#howtoguide-retrospectives-step5.closetheretrospective" id="howtoguide-retrospectives-step5.closetheretrospective"></a>
 

@@ -80,7 +80,7 @@ Sometimes there may be occasions when a persona has two or more parents. That's 
 \
 
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 
 Each solution should start with the global persona set and use what they can - if there is insufficient detail or a persona should be broken up, then do it. But make sure to categorise the new personas correctly to ensure that they can be found easily and reused by other teams.&#x20;
 
@@ -130,7 +130,7 @@ As you can see, this includes a list of personas, benefits, and acceptance crite
 
 Personas can then be categorised into one of the following:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 This helps validate that we have got all the right personas, as usually, you want at least one in the first three categories. The 4th, Facilitators, is not as common and usually, any stories pertaining to these groups are non-functional or purely tasks that the team needs to do, but having it here helps to determine if they are important or not.&#x20;
 
