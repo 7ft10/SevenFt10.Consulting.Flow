@@ -5,7 +5,7 @@
 ## Agility & Transformations
 
 * [Intro to Agile](agility-and-transformations/intro-to-agile/README.md)
-  * [What does agile mean?](agility-and-transformations/intro-to-agile/what-does-agile-mean.md)
+  * [What Does Agile Mean?](agility-and-transformations/intro-to-agile/what-does-agile-mean.md)
   * [What Is An Agile Mindset?](agility-and-transformations/intro-to-agile/what-is-an-agile-mindset.md)
 * [Intro to Transformation](agility-and-transformations/intro-to-transformation/README.md)
   * [What Is An Agile Transformation?](agility-and-transformations/intro-to-transformation/what-is-an-agile-transformation.md)
@@ -19,8 +19,8 @@
 
 * [Intro to IDEA](idea-model/intro-to-idea/README.md)
   * [Leadership-Strip (Tanzaku)](idea-model/intro-to-idea/leadership-strip-tanzaku.md)
+  * [Managing The Change](idea-model/intro-to-idea/managing-the-change.md)
   * [Metrics](idea-model/intro-to-idea/metrics.md)
-  * [Managing the Change](idea-model/intro-to-idea/managing-the-change.md)
 * [Initial Exposure](idea-model/initial-exposure.md)
 * [Develop Basics](idea-model/develop-basics.md)
 * [Evolve & Reflect](idea-model/evolve-and-reflect.md)
@@ -159,7 +159,6 @@
   * [Kanban Pizza Game](faciliation/games/kanban-pizza-game.md)
 * [Icebreakers](faciliation/icebreakers/README.md)
   * [Check Your Personal Thinking Style](faciliation/icebreakers/check-your-personal-thinking-style.md)
-  * [Mind Styles](faciliation/icebreakers/mind-styles.md)
   * [Streats Ahead](faciliation/icebreakers/streats-ahead.md)
   * [Value Cards](faciliation/icebreakers/value-cards.md)
 
