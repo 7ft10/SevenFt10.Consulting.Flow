@@ -4,7 +4,7 @@ The 3C-Change Management Model is based on the principles of Lean Changement, IT
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](<../../.gitbook/assets/image (16).png>)
+&#x20;![](<../../.gitbook/assets/image (4).png>)
 
 Properly planning a change by applying risk-based thinking can help to avoid negative consequences such as rework or cancellation, or postponement of service; it can also result in positive consequences such as reduction of nonconforming outputs; or reduced incidents of human error.
 
@@ -21,7 +21,7 @@ Change management brings discipline and quality control to modifications to the 
 
 Management shall evaluate the merits of the proposed change and determine the actions necessary to address and implement the intended changes. Wherever it is deemed essential, other departments will be consulted about proposed changes. This may include discussions with engineers, contractors, consultants, or other relevant parties before according to approval for the proposed change.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Before authorizing the implementation of changes, the following points shall be verified:
 

@@ -6,7 +6,7 @@ _**We use this to** properly plan, manage and understand the total efforts requi
 
 
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 This is determined during Conceptualise mode.&#x20;
 

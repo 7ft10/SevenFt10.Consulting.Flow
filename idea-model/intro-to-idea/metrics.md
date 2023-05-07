@@ -126,4 +126,4 @@ The team has a rhythm that goes above and beyond the rhythm of the sprint itself
 
 
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>

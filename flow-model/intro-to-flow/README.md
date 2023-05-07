@@ -8,7 +8,7 @@ Firstly, why modes? Not phases or statuses, or something else? Phases are usuall
 
 A mode, on the other hand, is something that we can slip in and out of as required. There is no linear movement through the model - even when we get to the complete mode!
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="246"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt="" width="246"><figcaption></figcaption></figure>
 
 ### [Conceptualise Mode](../../modes/conceptualise/)
 
@@ -34,4 +34,4 @@ Did we actually achieve the change we wanted to change? Did we achieve the 'Why'
 
 Agile governance should be simple and supportive. It should trust individuals and give decision-making authority to teams so they can focus on delivering.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>

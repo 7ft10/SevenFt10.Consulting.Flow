@@ -59,17 +59,17 @@ The following hierarchies are for demonstration purposes only and may not actual
 
 If we create the persona registry as a hierarchy, we can start to segment our users based on role, customer or stakeholder type, or any other attribute (for example, geographic, demographic, psychographic, or behavioural segmentation).
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 From here, we can further break down the personas for our solution. If we are creating a motorcycle insurance claims solution, for example, we might look at the staff involved as this:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As shown, we can also include the template here to help further understand the persona. Ultimately each persona will have the template filled out, but for the first cut, don't worry too much about filling it all out. Go wide first by getting all the personas, then go deep and fill out the details as required.&#x20;
 
 The same can be done for the other global personas:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 The policyholder is one of our primary personas; therefore, more detail should be provided here. There may be personas that are identified but not used for this solution, e.g. "School Runner", - but don't waste the data. Make sure that you capture it, as it will undoubtedly help other teams later.&#x20;
 

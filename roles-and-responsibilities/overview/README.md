@@ -8,7 +8,7 @@ Having the right team structure and being clear about roles and responsibilities
 
 We think about the teams we are involved in the context of being in the Core Team, a Trusted Advisor, or an Extended Team member.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15).png" alt="" width="375"><figcaption></figcaption></figure>
 
 It’s important to be cognisant about where you sit with each team you’re involved with, as it will be different from team to team and will greatly drive the type of interactions you have with that team.&#x20;
 

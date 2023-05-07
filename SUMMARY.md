@@ -179,15 +179,15 @@
   * [Streats Ahead](faciliation/icebreakers/streats-ahead.md)
   * [Value Cards](faciliation/icebreakers/value-cards.md)
 
-## Agile Coaching
+## Agile Coaching (A6 Model)
 
-* [Intro to Coaching](agile-coaching/intro-to-coaching.md)
-* [Agree](agile-coaching/agree.md)
-* [Address](agile-coaching/address.md)
-* [Assess](agile-coaching/assess.md)
-* [Align](agile-coaching/align.md)
-* [Assign](agile-coaching/assign.md)
-* [Account](agile-coaching/account.md)
+* [Intro to Coaching](agile-coaching-a6-model/intro-to-coaching.md)
+* [Agree](agile-coaching-a6-model/agree.md)
+* [Address](agile-coaching-a6-model/address.md)
+* [Assess](agile-coaching-a6-model/assess.md)
+* [Align](agile-coaching-a6-model/align.md)
+* [Assign](agile-coaching-a6-model/assign.md)
+* [Account](agile-coaching-a6-model/account.md)
 
 ## Tools
 

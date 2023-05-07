@@ -4,7 +4,7 @@
 _**We use this to** ... **so that we can** ..._
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 This is determined during Commence mode.&#x20;
 

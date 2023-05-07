@@ -6,7 +6,7 @@ The ‘Due Date’ field may be used here to indicate that the change must be im
 
 Check lists are a simple way of planning out a change. For high risks changes an implementation plan may require more thought and input from a variety of stakeholders.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 

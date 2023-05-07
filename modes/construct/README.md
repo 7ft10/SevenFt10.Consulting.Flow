@@ -8,6 +8,6 @@ description: aka development, delivery, creation
 **Good to know:**&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (52).png>)
