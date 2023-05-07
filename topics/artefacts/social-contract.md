@@ -10,7 +10,7 @@ _**We use this to** establish moral, work, and political rules of behaviour **so
 
 ## Theory <a href="#howtoguide-socialcontract-inputs" id="howtoguide-socialcontract-inputs"></a>
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 The biggest problem of living in the state of nature: there is no authority to enforce the law of nature. Because of this, people want to enter into civil society. People realize that they cannot live successfully in a state of nature. Cooperation among people is necessary to enjoy life.
 

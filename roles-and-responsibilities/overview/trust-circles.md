@@ -1,6 +1,6 @@
 # Trust Circles
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Each role is pulling in its own direction – we need a healthy tension to ensure success. Too much one way, and we don’t get lift-off.&#x20;
 

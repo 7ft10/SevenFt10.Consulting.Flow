@@ -12,7 +12,7 @@ A transformation often starts as a wish from management or from the "do-ers" - s
 
 We take a strategic view of each issue, considering the overall value proposition against our strategic goals. We build roadmaps for team and individual skills growth in all dimensions (not just technical) to maximize our ability to deliver on our strategies.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Initial Exposure &#x20;
 
@@ -62,8 +62,6 @@ For example, stand-ups: &#x20;
 * Accelerate & Kaizen &#x20;
   * "Best stand-ups ever!" &#x20;
   * Valuable and run as often as required. &#x20;
-
-&#x20;
 
 Ideas are then chained together. &#x20;
 

@@ -32,7 +32,7 @@ As individuals, when presented with problems to solve, we typically make a decis
 
 You can find a more detailed breakdown of these approaches and the benefits and hindrances they can introduce with too much reliance on one or the other.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Abstract**
 

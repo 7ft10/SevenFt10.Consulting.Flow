@@ -4,7 +4,7 @@ The 3C-Change Management Model is based on the principles of Lean Changement, IT
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;
+&#x20;![](<../../.gitbook/assets/image (15).png>)
 
 Properly planning a change by applying risk-based thinking can help to avoid negative consequences such as rework or cancellation, or postponement of service; it can also result in positive consequences such as reduction of nonconforming outputs; or reduced incidents of human error.
 
@@ -20,6 +20,8 @@ The organization shall consider the following:
 Change management brings discipline and quality control to modifications to the production systems and processes of the organisation. Attention to governance and formal policies and procedures will ensure its success. Adopting formalised governance and policies for operational change management delivers a more disciplined and efficient infrastructure. This formalisation requires communication; the documentation of important process workflows and personnel roles; and the alignment of automation tools, where appropriate. Where change management is nonexistent, it is incumbent on senior management to provide the leadership and vision to jump-start the process. By defining processes and policies, organisations can demonstrate increased agility in responding predictably and reliably to new business demands.
 
 Management shall evaluate the merits of the proposed change and determine the actions necessary to address and implement the intended changes. Wherever it is deemed essential, other departments will be consulted about proposed changes. This may include discussions with engineers, contractors, consultants, or other relevant parties before according to approval for the proposed change.
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 Before authorizing the implementation of changes, the following points shall be verified:
 

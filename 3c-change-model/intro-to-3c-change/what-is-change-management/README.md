@@ -2,6 +2,22 @@
 
 At its most fundamental level, Change Management is related to the organization’s understanding of risk and managing the risk when implementing a change.
 
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+Key benefits of change management are:
+
+* increased preparedness & support for people
+* increased change success
+* higher employee engagement
+* increased probability of change success
+  * 6 times more likely to meet objectives
+  * 5 times more likely to stay on schedule
+  * 2 times more likely to stay within budget
+* decrease of implementation time
+* less change resistance
+* holistic impacts are identified
+* people dependent returns on investment are identified and measured
+
 The goal of Change Management is to establish a set of agile and efficient standard procedures that drastically minimize the risk and impact of the addition, modification or removal of a service, procedure, component, or business artefacts that affect the organisation's services, functions, products or operations.
 
 Change management is a specialised leadership practice that incorporates analysis, planning, support, communication, evaluation, and continuous improvement. It relies on a sound knowledge of business practices, risk management, agile and systems thinking and a common-sense approach that looks to reduce bureaucracy without jeopardizing the operations of the organisation.

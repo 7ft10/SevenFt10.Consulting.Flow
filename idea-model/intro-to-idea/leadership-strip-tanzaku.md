@@ -21,4 +21,4 @@ Leadership is important to any transformation, and becoming a leader has some ad
   * When you start to get really great, consistent, sustainable results is when you can start to really innovate and create new leaders within your team&#x20;
   * Develops people &#x20;
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>

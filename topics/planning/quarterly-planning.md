@@ -21,7 +21,7 @@ The Quarterly Kick-Off session is held for all Major Play and BAU areas to share
 
 Intended Outcome All delivery teams are aligned with the direction for the coming quarter.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Day 1: <a href="#preparingforquarterlyplanning-day1" id="preparingforquarterlyplanning-day1"></a>
 

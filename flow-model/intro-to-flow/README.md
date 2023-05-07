@@ -8,6 +8,8 @@ Firstly, why modes? Not phases or statuses, or something else? Phases are usuall
 
 A mode, on the other hand, is something that we can slip in and out of as required. There is no linear movement through the model - even when we get to the complete mode!
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="243"><figcaption></figcaption></figure>
+
 ### [Conceptualise Mode](../../modes/conceptualise/)
 
 Consider what this opportunity looks like, and ask the questions listed below to understand whether we want to pursue the initiative further. You may end up having a number of discussions or concept workshops as part of this phase, ensuring that the right people are involved.
@@ -31,3 +33,5 @@ Did we actually achieve the change we wanted to change? Did we achieve the 'Why'
 ### [Check Mode](../../modes/check/)
 
 Agile governance should be simple and supportive. It should trust individuals and give decision-making authority to teams so they can focus on delivering.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

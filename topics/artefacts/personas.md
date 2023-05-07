@@ -63,17 +63,17 @@ If we create the persona registry as a hierarchy, we can start to segment our us
 
 From here, we can further break down the personas for our solution. If we are creating a motorcycle insurance claims solution, for example, we might look at the staff involved as this:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As shown, we can also include the template here to help further understand the persona. Ultimately each persona will have the template filled out, but for the first cut, don't worry too much about filling it all out. Go wide first by getting all the personas, then go deep and fill out the details as required.&#x20;
 
 The same can be done for the other global personas:
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The policyholder is one of our primary personas; therefore, more detail should be provided here. There may be personas that are identified but not used for this solution, e.g. "School Runner", - but don't waste the data. Make sure that you capture it, as it will undoubtedly help other teams later.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sometimes there may be occasions when a persona has two or more parents. That's ok. This isn't an organisational chart or family tree - do what you need to do to convey the information in the best way possible.&#x20;
 
@@ -116,7 +116,7 @@ If there is already a global set of personas, make sure to bring them along. The
 
 When you think that you have enough, then you can rearrange the personas into a tree. Don't worry if it's not perfect or a "valid tree" - the point is to see the problem from all perspectives to figure out where the benefits reside.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Additional Uses: As a story-writing aide** <a href="#howtoguide-personas-additionaluses-asastorywritingaide" id="howtoguide-personas-additionaluses-asastorywritingaide"></a>
 
