@@ -59,7 +59,7 @@ The following hierarchies are for demonstration purposes only and may not actual
 
 If we create the persona registry as a hierarchy, we can start to segment our users based on role, customer or stakeholder type, or any other attribute (for example, geographic, demographic, psychographic, or behavioural segmentation).
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 From here, we can further break down the personas for our solution. If we are creating a motorcycle insurance claims solution, for example, we might look at the staff involved as this:&#x20;
 

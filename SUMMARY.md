@@ -7,7 +7,7 @@
 * [Intro to Agile](agility-and-transformations/intro-to-agile/README.md)
   * [What Does Agile Mean?](agility-and-transformations/intro-to-agile/what-does-agile-mean.md)
   * [What Is An Agile Mindset?](agility-and-transformations/intro-to-agile/what-is-an-agile-mindset.md)
-* [Intro to Transformation](agility-and-transformations/intro-to-transformation/README.md)
+* [Intro to Transformation](agility-and-transformations/intro-to-transformation/what-is-an-agile-transformation.md)
   * [Why Transform?](agility-and-transformations/intro-to-transformation/why-transform.md)
   * [How Is The Transformation Done?](agility-and-transformations/intro-to-transformation/how-is-the-transformation-done.md)
   * [Who Transforms?](agility-and-transformations/intro-to-transformation/who-transforms.md)
@@ -20,20 +20,19 @@
   * [Leadership-Strip (Tanzaku)](idea-model/intro-to-idea/leadership-strip-tanzaku.md)
   * [Managing The Change](idea-model/intro-to-idea/managing-the-change.md)
   * [Metrics](idea-model/intro-to-idea/metrics.md)
-* [Initial Exposure](idea-model/initial-exposure/README.md)
-  * [Training](idea-model/initial-exposure/training/README.md)
-    * [Training Sessions Run Sheet](idea-model/initial-exposure/training/training-sessions-run-sheet.md)
+* [Initial Exposure](idea-model/initial-exposure.md)
+  * [Training](idea-model/initial-exposure/training.md)
   * [Coaching](idea-model/initial-exposure/coaching.md)
   * [Assessment](idea-model/initial-exposure/assessment.md)
-* [Develop Basics](idea-model/develop-basics/README.md)
+* [Develop Basics](idea-model/develop-basics.md)
   * [Training](idea-model/develop-basics/training.md)
   * [Coaching](idea-model/develop-basics/coaching.md)
   * [Assessment](idea-model/develop-basics/assessment.md)
-* [Evolve & Reflect](idea-model/evolve-and-reflect/README.md)
+* [Evolve & Reflect](idea-model/evolve-and-reflect.md)
   * [Training](idea-model/evolve-and-reflect/training.md)
   * [Coaching](idea-model/evolve-and-reflect/coaching.md)
   * [Assessment](idea-model/evolve-and-reflect/assessment.md)
-* [Accelerate & Kaizen](idea-model/accelerate-and-kaizen/README.md)
+* [Accelerate & Kaizen](idea-model/accelerate-and-kaizen.md)
   * [Training](idea-model/accelerate-and-kaizen/training.md)
   * [Coaching](idea-model/accelerate-and-kaizen/coaching.md)
   * [Assessment](idea-model/accelerate-and-kaizen/assessment.md)
@@ -162,9 +161,9 @@
 
 ## Faciliation
 
-* [Intro to Faciliation](faciliation/intro-to-faciliation/README.md)
-  * [Agile Facilitation](faciliation/intro-to-faciliation/agile-facilitation.md)
-  * [Planning and Running a Workshop](faciliation/intro-to-faciliation/planning-and-running-a-workshop.md)
+* [Intro to Faciliation](<faciliation/workshops/README (1).md>)
+  * [Agile Facilitation](faciliation/workshops/agile-facilitation.md)
+  * [Planning and Running a Workshop](faciliation/workshops/planning-and-running-a-workshop.md)
 * [Meetings](faciliation/meetings/README.md)
   * [Good Meetings](faciliation/meetings/good-meetings.md)
   * [Icebreakers](faciliation/meetings/icebreakers.md)
@@ -179,6 +178,16 @@
   * [Check Your Personal Thinking Style](faciliation/icebreakers/check-your-personal-thinking-style.md)
   * [Streats Ahead](faciliation/icebreakers/streats-ahead.md)
   * [Value Cards](faciliation/icebreakers/value-cards.md)
+
+## Agile Coaching
+
+* [Intro to Coaching](agile-coaching/intro-to-coaching.md)
+* [Agree](agile-coaching/agree.md)
+* [Address](agile-coaching/address.md)
+* [Assess](agile-coaching/assess.md)
+* [Align](agile-coaching/align.md)
+* [Assign](agile-coaching/assign.md)
+* [Account](agile-coaching/account.md)
 
 ## Tools
 

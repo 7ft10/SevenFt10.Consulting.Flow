@@ -29,5 +29,3 @@ Technology Processes&#x20;
 
 * Innovation is a habit&#x20;
 * Slack time is available to teams&#x20;
-
-&#x20;

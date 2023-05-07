@@ -114,12 +114,16 @@ Each sprint you deliver thin slices of the overall solution. The slices overlap 
 
 Instead, you may start with a thin journey that allows the customer you to purchase a single tomato using one payment method for delivery on a pre-selected date and time. Future slices might add the ability to select by weight, the ability to remove things from the basket, the ability to use different payment mechanisms, the ability to change the delivery slot and so on.
 
-11. Engagement has replaced traditional governance
+11. The engagement has replaced traditional governance
 
-Your sponsors are engaged in the project, they regularly spend time with the team, ‘walk the walls’ and attend show and tells. Reporting, where it exists, is lightweight and is of direct benefit to the team as well as to the sponsors. The responsibility of the sponsors to remove blockers and support the team is balanced with the responsibility of the team to deliver.
+Your sponsors are engaged in the project. They regularly spend time with the team, ‘walk the walls’ and attend show-and-tells. Reporting, where it exists, is lightweight and is of direct benefit to the team as well as to the sponsors. The responsibility of the sponsors to remove blockers and support the team is balanced with the responsibility of the team to deliver.
 
 Progress is communicated and understood in relation to the vision and a high-level roadmap as opposed to in relation to a traditional project plan. There is an acceptance that the roadmap will change based on learning and experience.
 
 12. You have rhythm
 
-The team has a rhythm which goes above and beyond the rhythm of the sprint itself. It includes the up-front analysis and design work, and the pre- and post- sprint user research. You plan how this will work and exactly when the key activities need to take place, and therefore have a constantly evolving set of stories ready for your developers to pick up. The rhythm allows the team to feel in control of the workload and creates the time and space for collaboration.
+The team has a rhythm that goes above and beyond the rhythm of the sprint itself. It includes the up-front analysis and design work and the pre-and post-sprint user research. You plan how this will work and exactly when the key activities need to take place, and therefore have a constantly evolving set of stories ready for your developers to pick up. The rhythm allows the team to feel in control of the workload and creates the time and space for collaboration.
+
+
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

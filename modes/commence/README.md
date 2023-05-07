@@ -4,6 +4,6 @@ description: aka initiate, validate, pre-delivery, kick-off
 
 # Commence
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (8).png>)

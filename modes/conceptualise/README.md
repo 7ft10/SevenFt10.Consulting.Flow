@@ -10,7 +10,7 @@ Is this the right work to do? Is this the right time to do the work? Should we p
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 ## Check List
 
