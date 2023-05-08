@@ -6,7 +6,7 @@ A company embarking on its agile journey is much like a caterpillar, considered 
 
 Let's go back to junior-high-school science for a moment. The Lepidoptera order of animals contains what we usually refer to as butterflies. Butterflies lay eggs. It can take about four weeks to transform from an egg into a butterfly. Firstly, the eggs take 5 to 10 days to hatch, from which the larva or caterpillar appears. Then after 11 to 18 days, they create a hard-skinned chrysalis - commonly known as a cocoon. The final stage sees the caterpillar enter the cocoon for metamorphosis or 'the big change'. It takes about 10 to 14 days, at the end of which the butterfly emerges to find a mate and start the cycle all over again. The four stages of a butterflies life are an egg, caterpillar, cocoon, butterfly - repeat.&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 The cyclic nature of this transformation is key to the continuation of the species. And the key to an agile organisation's continuation of value delivery. &#x20;
 

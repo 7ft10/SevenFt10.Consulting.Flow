@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+  * [Why Models?](welcome/why-models.md)
 
 ## Agility & Transformations
 
@@ -188,6 +189,14 @@
 * [Align](agile-coaching-a6-model/align.md)
 * [Assign](agile-coaching-a6-model/assign.md)
 * [Account](agile-coaching-a6-model/account.md)
+
+## Agile Software Architecture (C4 Model)
+
+* [Intro to Architecture](agile-software-architecture-c4-model/intro-to-architecture.md)
+* [Context](agile-software-architecture-c4-model/context.md)
+* [Container](agile-software-architecture-c4-model/container.md)
+* [Component](agile-software-architecture-c4-model/component.md)
+* [Code](agile-software-architecture-c4-model/code.md)
 
 ## Tools
 
