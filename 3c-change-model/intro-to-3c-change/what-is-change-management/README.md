@@ -2,7 +2,7 @@
 
 At its most fundamental level, Change Management is related to the organization’s understanding of risk and managing the risk when implementing a change.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Key benefits of change management are:
 

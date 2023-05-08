@@ -69,11 +69,11 @@ As shown, we can also include the template here to help further understand the p
 
 The same can be done for the other global personas:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The policyholder is one of our primary personas; therefore, more detail should be provided here. There may be personas that are identified but not used for this solution, e.g. "School Runner", - but don't waste the data. Make sure that you capture it, as it will undoubtedly help other teams later.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Sometimes there may be occasions when a persona has two or more parents. That's ok. This isn't an organisational chart or family tree - do what you need to do to convey the information in the best way possible.&#x20;
 

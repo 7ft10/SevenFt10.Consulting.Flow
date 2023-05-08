@@ -192,11 +192,18 @@
 
 ## Agile Software Architecture (C4 Model)
 
-* [Intro to Architecture](agile-software-architecture-c4-model/intro-to-architecture.md)
-* [Context](agile-software-architecture-c4-model/context.md)
-* [Container](agile-software-architecture-c4-model/container.md)
-* [Component](agile-software-architecture-c4-model/component.md)
-* [Code](agile-software-architecture-c4-model/code.md)
+* [Intro to Architecture](agile-software-architecture-c4-model/intro-to-architecture/README.md)
+  * [SOLID Principles](agile-software-architecture-c4-model/intro-to-architecture/solid-principles.md)
+  * [DRY Principle](agile-software-architecture-c4-model/intro-to-architecture/dry-principle.md)
+  * [Single Source of Truth (SSOT)](agile-software-architecture-c4-model/intro-to-architecture/single-source-of-truth-ssot.md)
+* [Context](agile-software-architecture-c4-model/context/README.md)
+  * [Examples](agile-software-architecture-c4-model/context/examples.md)
+* [Container](agile-software-architecture-c4-model/container/README.md)
+  * [Examples](agile-software-architecture-c4-model/container/examples.md)
+* [Component](agile-software-architecture-c4-model/component/README.md)
+  * [Examples](agile-software-architecture-c4-model/component/examples.md)
+* [Code](agile-software-architecture-c4-model/code/README.md)
+  * [Examples](agile-software-architecture-c4-model/code/examples.md)
 
 ## Tools
 
