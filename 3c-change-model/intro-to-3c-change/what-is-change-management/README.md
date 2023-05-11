@@ -1,8 +1,12 @@
 # What is change management?
 
-At its most fundamental level, Change Management is related to the organization’s understanding of risk and managing the risk when implementing a change.
+At the fundamental level, Change Management is related to the organization’s understanding of risk and managing the risk when implementing a change.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+Change management is the discipline that guides how we prepare, equip and support people to successfully adopt change, which in turn drives organisational success, deliverables, and outcomes.&#x20;
+
+Change management is about helping people effectively transition through change.&#x20;
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>Allows teams to deliver results on each change more effectively and build competencies that grow capacity to tackle more changes over time. </td><td></td><td></td></tr><tr><td>Provides employees with the preparation, support and skills they need to move into a new operating environment.</td><td></td><td></td></tr><tr><td>Focuses on helping people change the way they do their jobs, improve efficiencies and streamline processes. </td><td></td><td></td></tr><tr><td>Effectively supports and equips people impacted by a change to produce successful outcomes.</td><td></td><td></td></tr><tr><td>Proactively demonstrates that employees are valued during times of change.</td><td></td><td></td></tr></tbody></table>
 
 Key benefits of change management are:
 
@@ -10,10 +14,10 @@ Key benefits of change management are:
 * increased change success
 * higher employee engagement
 * increased probability of change success
-  * 6 times more likely to meet objectives
-  * 5 times more likely to stay on schedule
-  * 2 times more likely to stay within budget
-* decrease of implementation time
+  * Six times more likely to meet objectives
+  * Five times more likely to stay on schedule
+  * Two times more likely to stay within budget
+* decrease in implementation time
 * less change resistance
 * holistic impacts are identified
 * people dependent returns on investment are identified and measured

@@ -4,7 +4,18 @@ The 3C-Change Management Model is based on the principles of Lean Changement, IT
 
 <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;![](<../../.gitbook/assets/image (4) (1) (1).png>)
+### Guide
+
+* Ensure stakeholders understand the need for change
+* Define the change and assess the environment
+* Assess the impact on strategy, technology, business, process, policy, people and environment
+* Ensure to communicate and explain the 'why' and desired outcomes of the change
+* Co-design/co-define what will (and will not) change for each stakeholder group&#x20;
+* Implement a formal change network with ongoing collaborative engagement&#x20;
+* Prepare individuals by identifying new skills and behaviours and, if required, redesign jobs, roles, and structures
+* Develop and implement capability development initiatives supported by change management
+* Embed the change process in the culture to reinforce new ways of working supported by leaders
+* Measure ongoing performance and continuous improvement&#x20;
 
 Properly planning a change by applying risk-based thinking can help to avoid negative consequences such as rework or cancellation, or postponement of service; it can also result in positive consequences such as reduction of nonconforming outputs; or reduced incidents of human error.
 
@@ -21,35 +32,33 @@ Change management brings discipline and quality control to modifications to the 
 
 Management shall evaluate the merits of the proposed change and determine the actions necessary to address and implement the intended changes. Wherever it is deemed essential, other departments will be consulted about proposed changes. This may include discussions with engineers, contractors, consultants, or other relevant parties before according to approval for the proposed change.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+Principles
+
+* Co-designed - giving stakeholders a voice to ensure alignment&#x20;
+* Co-owned - with appropriate stakeholders
+* Coordinated - aligned and experience-based&#x20;
+* Consistent approach and messaging&#x20;
+* Connected - end-to-end and future-focused
+* Concentrated - and focused on positive benefits and value for stakeholders
 
 Before authorizing the implementation of changes, the following points shall be verified:
 
-§   All necessary technical, safety, security and environmental reviews are completed;
-
-§   Risks and consequences identified during the review processes are addressed to the utmost satisfaction;
-
-§   Proposed changes comply with regulatory and legal requirements;
-
-§   Necessary approvals are obtained from the regulatory and/or legal authority wherever required;
-
-§   All affected personnel are informed of the changes and adequately trained where necessary;
-
-§   Documentation about changes and reviews is complete.
+* All necessary technical, safety, security and environmental reviews are completed
+* Risks and consequences identified during the review processes are addressed to the utmost satisfaction
+* Proposed changes comply with regulatory and legal requirements
+* Necessary approvals are obtained from the regulatory and/or legal authority wherever required
+* All affected personnel are informed of the changes and adequately trained where necessary
+* Documentation about changes and reviews is complete
 
 The change shall be reviewed by appropriate management, including the direct Manager responsible for the process. Changes must be approved before implementation; however, the level of approval will be based on a risk assessment and may allow for automatic approvals.
 
 Upon implementation of change, the Change Manager shall verify the following.
 
-§   Implemented changes are as intended;
-
-§   Documentations are complete about changes;
-
-§   Changes are communicated;
-
-§   Applicable regulatory and legal requirements are fulfilled;
-
-§   Plans and budgets are amended.
+* Implemented changes are as intended
+* Documentations are complete about changes
+* Changes are communicated
+* Applicable regulatory and legal requirements are fulfilled
+* Plans and budgets are amended
 
 ## Model States <a href="#_toc35339163" id="_toc35339163"></a>
 
@@ -57,19 +66,25 @@ The model contains two intertwined cycles – the main cycle and the cycle used 
 
 ### **Capture Change**
 
-Any employee that becomes aware of a need for change can initiate the change management process. The person initiating the process will notify their immediate supervisor/manager, detailing the proposed change on the change management request form. Following approval from the authorised supervisor/manager, the change management form shall then be forwarded to the Change Manager for review.
+Any employee that becomes aware of a need for change can initiate the change management process. The person initiating the process will notify stakeholders, detailing the proposed change on the change management request form.&#x20;
+
+Following authorised approval, the change management form shall contact the Change Manager for review.
 
 ### **Consider Change**
 
-The Change Manager will log and review the change management request form before forwarding it to the appropriate process owner/manager for potential operational impact, cost/benefit, analysis, and associated risk and to management as appropriate to the change under consideration. If the request is accepted, the appropriate process owner/manager will detail any actions deemed necessary to control the impact of the change and forward the request to the appropriate manager for approval. &#x20;
+The Change Manager will log and review the change management request form before forwarding it to the appropriate process owner/manager for potential operational impact, cost/benefit, analysis, and associated risk and to management as appropriate to the change under consideration.&#x20;
+
+If the request is accepted, the appropriate change owner will detail any actions deemed necessary to control the impact of the change and forward the request to the appropriate manager for approval. &#x20;
 
 ### **Conduct Change**
 
-The process owner (manager) will be responsible for implementing and coordinating the actions required for the proposed change. If it is determined that further assessment is required during the course of implementing the change, these assessments will be documented and submitted for review prior to completing the change process. Only after all assessments have been reviewed shall the change management process be continued and monitored through completion.
+The change owner will be responsible for implementing and coordinating the actions required for the proposed change. If it is determined that further assessment is required during the course of implementing the change, these assessments will be documented and submitted for review prior to completing the change process. Only after all assessments have been reviewed shall the change management process be continued and monitored through completion.
 
 #### **Close Change**
 
-The direct manager shall be responsible for verifying the satisfactory implementation of the proposed change and the effectiveness of any corresponding control measures.
+_This is technically a 4th "C", but we see that conducting also includes closing off the change._&#x20;
+
+The change owner is responsible for verifying the satisfactory implementation of the proposed change and the effectiveness of any corresponding control measures.
 
 ## Implementation&#x20;
 

@@ -37,8 +37,8 @@ Changing Mindsets (People)&#x20;
 
 Creating Knowledge (Data)&#x20;
 
-* . &#x20;
-* . &#x20;
-* .&#x20;
+* Single source of truth
+* Up-to-date and easy to access
+* Data-driven decisions&#x20;
 
 There are many stakeholders within the organisation that need to be considered and aligned to bring about true organizational agility.&#x20;

@@ -153,12 +153,16 @@
   * [Priority](3c-change-model/capture/priority.md)
   * [Experience](3c-change-model/capture/experience.md)
   * [Impact](3c-change-model/capture/impact.md)
+  * [Change Types](3c-change-model/capture/change-types.md)
 * [Consider](3c-change-model/consider/README.md)
   * [Risk](3c-change-model/consider/risk.md)
 * [Conduct](3c-change-model/conduct/README.md)
-  * [Plan](3c-change-model/conduct/plan.md)
-  * [Perform](3c-change-model/conduct/perform.md)
-  * [Prove](3c-change-model/conduct/prove.md)
+  * [Plan](3c-change-model/conduct/plan/README.md)
+    * [Change Activities Matrix](3c-change-model/conduct/plan/change-activities-matrix.md)
+  * [Perform](3c-change-model/conduct/perform/README.md)
+    * [Rollback or Roll-forward](3c-change-model/conduct/perform/rollback-or-roll-forward.md)
+  * [Prove](3c-change-model/conduct/prove/README.md)
+    * [Change Result Status](3c-change-model/conduct/prove/change-result-status.md)
 
 ## Faciliation
 
@@ -193,6 +197,7 @@
 ## Agile Software Architecture (C4 Model)
 
 * [Intro to Architecture](agile-software-architecture-c4-model/intro-to-architecture/README.md)
+  * [Role of the Architect](agile-software-architecture-c4-model/intro-to-architecture/role-of-the-architect.md)
   * [SOLID Principles](agile-software-architecture-c4-model/intro-to-architecture/solid-principles.md)
   * [DRY Principle](agile-software-architecture-c4-model/intro-to-architecture/dry-principle.md)
   * [Single Source of Truth (SSOT)](agile-software-architecture-c4-model/intro-to-architecture/single-source-of-truth-ssot.md)
@@ -204,6 +209,8 @@
   * [Examples](agile-software-architecture-c4-model/component/examples.md)
 * [Code](agile-software-architecture-c4-model/code/README.md)
   * [Examples](agile-software-architecture-c4-model/code/examples.md)
+* [Patterns](agile-software-architecture-c4-model/patterns/README.md)
+  * [Back-end for Front-end (BFF)](agile-software-architecture-c4-model/patterns/back-end-for-front-end-bff.md)
 
 ## Tools
 
