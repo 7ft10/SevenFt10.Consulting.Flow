@@ -215,11 +215,12 @@
 ## Tools
 
 * [Miro](tools/miro/README.md)
-  * [Miro Usage](tools/miro/miro-usage.md)
+  * [Best Practice](tools/miro/best-practice.md)
 * [Jira](tools/jira/README.md)
-  * [End User Best Practice](tools/jira/end-user-best-practice.md)
+  * [Best Practice](tools/jira/best-practice.md)
   * [Printing Physical Cards](tools/jira/printing-physical-cards.md)
 * [Confluence](tools/confluence/README.md)
+  * [Best Practice](tools/confluence/best-practice.md)
   * [Example Confluence Layout](tools/confluence/example-confluence-layout.md)
 
 ## FAQs
