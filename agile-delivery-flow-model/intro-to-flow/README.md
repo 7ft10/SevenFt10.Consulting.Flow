@@ -10,27 +10,27 @@ A mode, on the other hand, is something that we can slip in and out of as requir
 
 <figure><img src="../../.gitbook/assets/image (55).png" alt="" width="246"><figcaption></figcaption></figure>
 
-### [Conceptualise Mode](../../modes/conceptualise/)
+### [Conceptualise Mode](../conceptualise/)
 
 Consider what this opportunity looks like, and ask the questions listed below to understand whether we want to pursue the initiative further. You may end up having a number of discussions or concept workshops as part of this phase, ensuring that the right people are involved.
 
-### [Commence Mode](../../modes/commence/)
+### [Commence Mode](../commence/)
 
 The delivery teams will be engaged more in the detail of the change and will elaborate and break up work into right-sized chunks.
 
-### [Construct Mode](../../modes/construct/)
+### [Construct Mode](../construct/)
 
 The delivery teams work through applying the change/s with a continuous plan-do-check-act cycle. Change management activities are undertaken during delivery to ensure the impacted parties and interested stakeholders are aware and prepared for the change when it is deployed.
 
-### [Confirm Mode](../../modes/confirm/)
+### [Confirm Mode](../confirm/)
 
 Have we completed this in such a way that it will continue without us in the future? Are we done?
 
-### [Complete Mode](../../modes/complete/)
+### [Complete Mode](../complete/)
 
 Did we actually achieve the change we wanted to change? Did we achieve the 'Why'? Are we really done? Did we create any debt that needs to be considered later on?
 
-### [Check Mode](../../modes/check/)
+### [Check Mode](../check/)
 
 Agile governance should be simple and supportive. It should trust individuals and give decision-making authority to teams so they can focus on delivering.&#x20;
 

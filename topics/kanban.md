@@ -1,3 +1,3 @@
 # Kanban
 
-![](<../.gitbook/assets/image (60).png>)
+![](<../.gitbook/assets/image (60) (1).png>)

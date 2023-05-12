@@ -8,6 +8,6 @@ Normally this problem gets solved by implementing an intermediary layer between 
 
 The benefit of the BFF pattern is that we get the benefits of the microservices architecture, without over complicating the communication with front-end apps.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
