@@ -224,10 +224,15 @@
 * [Patterns](agile-software-architecture-c4-model/patterns/README.md)
   * [Back-end for Front-end (BFF)](agile-software-architecture-c4-model/patterns/back-end-for-front-end-bff.md)
 
-## Portfolio & Product Management (XX Model)
+## Portfolio Management (WARRIC Model)
 
-* [Intro to Portfolio Management](portfolio-and-product-management-xx-model/intro-to-portfolio-management.md)
-* [Intro to Product Management](portfolio-and-product-management-xx-model/intro-to-product-management.md)
+* [Intro to Portfolio Management](portfolio-management-warric-model/intro-to-portfolio-management.md)
+* [Work Management](portfolio-management-warric-model/work-management.md)
+* [Alignment Management](portfolio-management-warric-model/alignment-management.md)
+* [Resource Management](portfolio-management-warric-model/resource-management.md)
+* [Risk Management](portfolio-management-warric-model/risk-management.md)
+* [Investment Management](portfolio-management-warric-model/investment-management.md)
+* [Communication Management](portfolio-management-warric-model/communication-management.md)
 
 ## Tools
 
