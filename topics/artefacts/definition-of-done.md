@@ -49,7 +49,7 @@ The DoD does the following:
 
 ## Definition of Done versus Acceptance Criteria (AC) <a href="#howtoguide-createadefinitionofdone-dod-definitionofdoneversusacceptancecriteria-ac" id="howtoguide-createadefinitionofdone-dod-definitionofdoneversusacceptancecriteria-ac"></a>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 DoD is different to Acceptance Criteria (AC).&#x20;
 

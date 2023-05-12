@@ -6,7 +6,7 @@ The architecture of a system describes its major components, their relationships
 
 We can segregate Software Architecture and Design into two distinct phases: Software Architecture and Software Design. In Architecture, nonfunctional decisions are cast and separated by the functional requirements. In Design, functional requirements are accomplished.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 [https://www.future-processing.com/blog/what-is-software-architecture-in-software-engineering/](https://www.future-processing.com/blog/what-is-software-architecture-in-software-engineering/)
 
@@ -77,7 +77,7 @@ Having a defined strategic IT architecture alone is not enough; if the principle
 
 In framing the approach for IT architecture governance, consideration was given to establishing a multi-tiered framework to separate strategic/enterprise concerns from tactical/solution-oriented interests, but a single architecture forum has been chosen due to the relatively small size of A\&G and the desire to avoid an overly complex governance framework.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The noteworthy characteristics of software architecture include the following:
 
@@ -103,7 +103,7 @@ Here are the software architecture best practices that software architects must 
 
 <figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Abstractions
 
