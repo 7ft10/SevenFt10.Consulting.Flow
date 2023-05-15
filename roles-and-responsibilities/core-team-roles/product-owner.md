@@ -21,7 +21,7 @@ Closely aligned to the Business Owner role.
 
 ## Activities
 
-<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Current Sprint / Iteration
 
@@ -63,4 +63,4 @@ Closely aligned to the Business Owner role.
 
 These are some of the typical activities that you may incorporate into your day.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>

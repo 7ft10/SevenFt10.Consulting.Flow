@@ -6,7 +6,7 @@ To ensure that you generate value from your workshops, consider each step of the
 
 There are four phases of a workshop (Pre-Workshop, In-Progress, Post-Workshop & Implementation). These stages are broken down further below for additional information and explanation.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **What makes a good workshop?**
 

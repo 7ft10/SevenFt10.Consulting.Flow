@@ -10,7 +10,7 @@ Sprint Planning is the first action in the sprint and sets it up for success.
 
 The whole Scrum team, plus relevant stakeholders and SMEs, should collaborate in this ceremony.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Input <a href="#howtoguide-sprintplanning-input" id="howtoguide-sprintplanning-input"></a>
 

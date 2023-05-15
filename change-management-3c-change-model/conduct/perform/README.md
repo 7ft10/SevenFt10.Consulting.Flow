@@ -34,4 +34,4 @@ It can also be an avenue to communicate with and alleviate the fears of those em
 
 ## Example Workflow
 
-<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>

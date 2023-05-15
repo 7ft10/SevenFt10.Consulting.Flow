@@ -16,7 +16,7 @@ It's valuable to identify which stance you align with as you can make conscious 
 
 When facilitating a meeting, it's possible to adopt either a commanding or passive approach. Each of these stances bring value; however, it's important to find a healthy balance. Below is a breakdown of the benefits and hindrances that can be introduced with too much reliance on either.
 
-<figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Commanding**
 
@@ -32,7 +32,7 @@ As individuals, when presented with problems to solve, we typically make a decis
 
 You can find a more detailed breakdown of these approaches and the benefits and hindrances they can introduce with too much reliance on one or the other.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Abstract**
 

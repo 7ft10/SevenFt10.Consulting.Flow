@@ -59,11 +59,11 @@ The following hierarchies are for demonstration purposes only and may not actual
 
 If we create the persona registry as a hierarchy, we can start to segment our users based on role, customer or stakeholder type, or any other attribute (for example, geographic, demographic, psychographic, or behavioural segmentation).
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 From here, we can further break down the personas for our solution. If we are creating a motorcycle insurance claims solution, for example, we might look at the staff involved as this:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As shown, we can also include the template here to help further understand the persona. Ultimately each persona will have the template filled out, but for the first cut, don't worry too much about filling it all out. Go wide first by getting all the personas, then go deep and fill out the details as required.&#x20;
 
@@ -80,7 +80,7 @@ Sometimes there may be occasions when a persona has two or more parents. That's 
 \
 
 
-<figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Each solution should start with the global persona set and use what they can - if there is insufficient detail or a persona should be broken up, then do it. But make sure to categorise the new personas correctly to ensure that they can be found easily and reused by other teams.&#x20;
 
@@ -112,7 +112,7 @@ For example, "What happens when a Motorcyclist who only uses their bike for comm
 
 If there is already a global set of personas, make sure to bring them along. They will help with brainstorming the problem from different perspectives.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 
 When you think that you have enough, then you can rearrange the personas into a tree. Don't worry if it's not perfect or a "valid tree" - the point is to see the problem from all perspectives to figure out where the benefits reside.
 
@@ -124,13 +124,13 @@ When writing a story, you are hopefully breaking the work down from an epic or l
 
 A how-to guide to writing features can be found in Confluence. A good structure to use is the following:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As you can see, this includes a list of personas, benefits, and acceptance criteria - all just as bullet points and quick notes.&#x20;
 
 Personas can then be categorised into one of the following:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 This helps validate that we have got all the right personas, as usually, you want at least one in the first three categories. The 4th, Facilitators, is not as common and usually, any stories pertaining to these groups are non-functional or purely tasks that the team needs to do, but having it here helps to determine if they are important or not.&#x20;
 
@@ -158,7 +158,7 @@ Furthermore, this can be automated quite easily, especially when using tools lik
 
 For example, our BDD might be:&#x20;
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 And our examples can be used directly from here. These can obviously then be stored in a database or a file and added to over time.&#x20;
 

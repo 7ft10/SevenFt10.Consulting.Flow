@@ -30,4 +30,4 @@ _**We use this to** prioritise what is most important to focus on for this initi
 
 _Commentary: Given our constraints of X when push comes to shove while <  Y  > is important, we value \<Z> more because it will enable/provide/achieve….._
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>

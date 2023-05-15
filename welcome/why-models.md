@@ -9,3 +9,13 @@ But, more than the above, a model gives a reference point for us to observe, ass
 Therefore, the models listed in this book are a starting point, reference, and picture that you can use to visualise the steps to becoming agile. The models are there to be changed for your circumstances. No two businesses are the same; no two agile transformations are the same. Therefore no one model is suitable for the different challenges that each different business will encounter. &#x20;
 
 Please take these models and make them your own. The models are purposely at a high enough design to allow for changes in the operations and day-to-day actions of coaches and agile leaders.&#x20;
+
+## Dudes Law
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The Big Lebowski stars Jeff Bridges as Jeffrey "The Dude" Lebowski, a Los Angeles slacker and avid bowler. _"The Dude Abides"_
+{% endhint %}
+
+If too much focus is placed on the "How" rather than the "Why" then "Value" will drop.

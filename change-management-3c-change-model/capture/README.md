@@ -6,4 +6,4 @@ The requestor of the change conducts the first stage of the process. They outlin
 
 ## Example workflow
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (2).png" alt=""><figcaption></figcaption></figure>

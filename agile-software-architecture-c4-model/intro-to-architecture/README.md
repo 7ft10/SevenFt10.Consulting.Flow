@@ -69,7 +69,7 @@ When you create a software solution, its architecture must do two things:
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enterprise architecture is the process of translating the business vision and strategy into effective enterprise change by creating, communicating and improving the key principles, standards and models that describe the enterprise's strategic IT architecture.
 
@@ -103,7 +103,7 @@ Here are the software architecture best practices that software architects must 
 
 <figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Abstractions
 

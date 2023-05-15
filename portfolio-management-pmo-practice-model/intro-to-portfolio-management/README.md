@@ -1,17 +1,5 @@
 # Intro to Portfolio Management
 
-## FMO Model
-
-In today’s changing world of work, mastering these five competencies gives savvy PMOs the insights needed to thrive.
-
-* Work management, work intake and demand management
-* Alignment management and prioritization
-* Resource ($, people, tools) and capacity planning and management
-* Risk management
-* Investment management and value creation&#x20;
-* Communication management, reporting, transparency, and visibility
-* Governance and adherence to the process and rules
-
 ## Principles
 
 ### Align to Strategy
@@ -35,6 +23,14 @@ If a project is no longer considered relevant, it has to be stopped. Salvage wha
 IT portfolio management is an area to pay particular attention to. As technologies move on so quickly, it’s possible that some projects that are in flight or in the pipeline are no longer aligned to the tech stack and should be changed or removed from the list of current work.
 
 Use your portfolio management team to help senior managers understand the rationale for closing projects that will no longer deliver the expected benefits. Redirect the resources to projects where you can achieve something good.
+
+### Deliver Value Continuously&#x20;
+
+Every portfolio promises value, and therefore, engaging sponsors consistently and effectively becomes critical to assess whether that promise is being delivered or the portfolio is becoming irrelevant.&#x20;
+
+For a dynamic digital business, it’s a good practice to have weekly meetings at which product managers and sponsors can discuss the previous week’s deliverables, ongoing tasks, resource availability, and existing risks or roadblocks.&#x20;
+
+This way, the involved parties can keep track of the portfolio’s health and realign it with value, if required.
 
 ### Lead the Change
 
@@ -66,6 +62,8 @@ Enterprise portfolio management – effective portfolio management – goes far 
 
 Portfolio managers understand that they have to keep their activities simple and streamlined. Remember that the goal is to focus on how to make the right decisions regarding the project and to guide project members. This means that keeping and reviewing extensive documentation is not a priority.
 
+Plans aren’t chiselled in stone. In lean portfolio management, one must continuously review and adapt to the changing environment to maintain value and eliminate waste. Project roadmaps are valuable tools in this process as they help portfolio managers by giving them an overview in which they can strategically reallocate resources to maintain value while eliminating waste. Try our roadmap template to get started.
+
 ### Concentrate on Value Instead of Cost
 
 A good portfolio manager asks about the value a project will generate instead of how much it will cost. Focusing on the former will help you think of how to make improvements in the company’s IT endeavours. After all, any development in this area can further your group’s capability to create value for clients.
@@ -82,4 +80,47 @@ Agile portfolio management is more about coordinating and overseeing various tea
 
 Companies should understand and accept that every team and team member is unique. Every group meets a distinct situation that changes over time. This means that teams should be permitted to organise themselves and adapt their methods to meet each distinct situation. An agile framework focuses on supplying, as well as comparing and contrasting, numerous process options. This also means that portfolio managers should be flexible in how they approach each team and project. They should know how to adjust because even though each team handles projects differently, managers still have to guide them and monitor the effectiveness of every group.
 
-{% embed url="https://tensix.com/5-principles-for-successful-project-portfolio-management/" %}
+## PMO Practice Model
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+In today’s changing world of work, mastering these seven competencies gives savvy PMOs the insights needed to thrive.
+
+* Demand Practice&#x20;
+  * Strategic Alignment&#x20;
+  * Business- or Technology-driven Prioritisation&#x20;
+  * Valuable Initiative Selection&#x20;
+  * Leveling Workload (Mura)&#x20;
+* Risk Practice&#x20;
+  * Risk Identification and Mitigation&#x20;
+  * Learn + Adjust&#x20;
+  * Waste Removal (Muda)&#x20;
+* Performance Practice&#x20;
+  * Value/Benefits&#x20;
+  * Cost of Delay & Metrics&#x20;
+  * WIP Limits & Bottleneck Management&#x20;
+  * Continuous Improvement (Kaizen)&#x20;
+* Report Practice&#x20;
+  * Data-driven Decisions&#x20;
+  * Real-time Health&#x20;
+  * Visibility & Transparency&#x20;
+  * Retrospectives (Hansei)&#x20;
+* Delivery Practice&#x20;
+  * Incremental Delivery&#x20;
+  * Planning & Scheduling&#x20;
+  * Feedback loops&#x20;
+  * Think Slow and Act Fast (Nemawashi)&#x20;
+* Asset Practice&#x20;
+  * \$$, Skills, People & Tools&#x20;
+  * Flow to Stable Teams&#x20;
+  * Capacity Planning&#x20;
+  * Automation (Jidoka)&#x20;
+* Change Practice&#x20;
+  * Culture & Team Dynamics&#x20;
+  * Communications&#x20;
+  * Planning/Releases&#x20;
+  * Governance (Genchi Genbutsu)
+
+## Integration Into Flow&#x20;
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
