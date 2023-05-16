@@ -12,6 +12,10 @@
 * OKRs are not synonymous with employee evaluations
 * OKRs are not a shared to-do list
 
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 ## Objectives
 
 An Objective describes an outcome you’d like to achieve in the future. An Objective sets the direction — think of it like a destination on a map.&#x20;
@@ -76,7 +80,7 @@ Each KR should be categorised in order to measure it against the best scale. Onc
 
 The business-as-usual target is one that you’d expect to hit 100%. Anything other than 100% would be considered a failure. Given what we went through earlier about goals being hard, these are the exception, not the rule.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 Binary goal. Either it is done, or it is not.&#x20;
 
@@ -90,7 +94,7 @@ Hard goals are sometimes called stretch or committed goals as well. Achieving 10
 
 The engine room of OKR is conversation and debate around what your Objective should be, what you should measure, and what ‘good’ and ‘amazing’ would look like.
 
-### BHAG&#x20;
+### BHAG (Some progress is Success)
 
 It’s been shown that what is considered ‘visionary’ companies often also set highly aspirational, Big Hairy Audacious Goals (BHAG). They are set to inspire greatness, new ways of doing things, new approaches to problems and genuine innovation. You need to choose when and where to set them, obviously, but their value is clear. Calibrating the success of a BHAG is harder, but 30% to 100% for many would be seen as a great result.
 
@@ -108,7 +112,9 @@ Together the % progress and the level of difficulty show how the goal is progres
 
 Where progress looks backwards, confidence levels look forwards and benefit from what you know about the execution of the goal and the likelihood of making good progress going forward.
 
-### Averaging
+### Trends & Averaging
+
+![](<../../.gitbook/assets/image (31).png>)
 
 Averaging an OKR looks like this:
 

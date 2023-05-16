@@ -55,7 +55,7 @@ The following Test Automation principles have been designed to be in line with i
 
 ## 4 Aces Model
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 An extension to the AAA pattern of testing that looks beyond the original intended unit testing methods. The additional A stands for "Annihilate", which is the important clean-up step after tests have been run to allow them to be run over and over.&#x20;
 

@@ -152,7 +152,7 @@ This helps to remove the age-old problem of "Which user can I use?" or "What is 
 
 For example, our MC commuter could be any of the following:
 
-<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Furthermore, this can be automated quite easily, especially when using tools like BDD and Gherkin language, which allows for rows of tabular data to be injected into each iterative run of a test.  &#x20;
 

@@ -29,4 +29,4 @@ Approaches&#x20;
 
 <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (10) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
