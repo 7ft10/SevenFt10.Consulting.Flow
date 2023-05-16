@@ -16,6 +16,46 @@
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+````python
+```notebook-python
+#@title OKRs
+## !pip install diagrams &> /dev/null 
+from diagrams import Cluster, Diagram
+from diagrams.programming.flowchart import Document
+
+with Diagram("OKRs", show=False) as diagram:
+
+    with Cluster("Company"):
+      company_obj = Document("Objective") 
+      company_kr = Document("Key Result")
+      company_group = [ company_obj, company_kr ]
+
+      company_obj >> company_kr
+
+    with Cluster("Division"):
+      div_obj = Document("Objective") 
+      div_kr = Document("Key Result")
+      div_group = [ div_obj, div_kr ]
+
+      div_obj >> div_kr
+
+    with Cluster("Team"):
+      obj = Document("Objective") 
+      kr = Document("Key Result")      
+      tm_group = [ obj, kr ]
+
+    init = Document("Initiative")
+
+    company_obj >> div_obj >> obj
+
+    obj >> kr >> init
+
+diagram
+```
+````
+
 ## Objectives
 
 An Objective describes an outcome you’d like to achieve in the future. An Objective sets the direction — think of it like a destination on a map.&#x20;

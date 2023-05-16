@@ -6,7 +6,7 @@ _**We use this to** capture a user's want or need quickly and the benefit that t
 
 
 
-<figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Template&#x20;
 
