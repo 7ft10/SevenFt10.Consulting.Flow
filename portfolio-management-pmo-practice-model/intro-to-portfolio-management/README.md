@@ -4,10 +4,6 @@
 
 ### Align to Strategy
 
-Portfolio management is all about strategic alignment. Of course, you need a strategy to align to first!
-
-Once you’ve got clarity on the organizational strategy, the portfolio team can make sure that each initiative has a clear link back to a strategic objective. After all, if the work doesn’t help drive the strategy forward, why are you doing it?
-
 Knowing how each initiative links back to the strategic objectives means that you can better prioritize the work. You can also ensure that each area of the strategy is getting adequate attention.&#x20;
 
 The principle of ensuring the company’s change portfolio is aligned with where you want the business to go is the first one you need to get right. Everything else can follow later, but if you aren’t working on the right initiative, you should fix that first!
@@ -82,7 +78,7 @@ Companies should understand and accept that every team and team member is unique
 
 ## PMO Practice Model
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 In today’s changing world of work, mastering these seven competencies gives savvy PMOs the insights needed to thrive.
 

@@ -26,7 +26,7 @@ ICaRuS scoring is a prioritisation method built on concepts like WSJF and the GI
 
 Scores range between 6 and 30 with 6 being the worst and 30 the best.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (27) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Opportunity          | ICaRuS Score | MoSCoW | Impact |    | Confidence | Risk | Size |              |            |      |      |
 | -------------------- | ------------ | ------ | ------ | -- | ---------- | ---- | ---- | ------------ | ---------- | ---- | ---- |

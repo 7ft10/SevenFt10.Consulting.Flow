@@ -9,7 +9,7 @@ Before embarking on the planning effort, it is important to understand that not 
 
 #### Supportive PMO (O1)
 
-Provides templates, best practices, and training to PMs. Low degree of control over projects. Project managers are not necessarily assigned by the PMO and are more likely to report to functional areas outside the PMO. Functional managers tend to have control over the budget and manage project activities. Project managers are viewed as more project coordinators.
+Provides templates, best practices, and training to PMs. Low degree of control over projects. The PMO does not necessarily assign project managers and are more likely to report to functional areas outside the PMO. Functional managers tend to have control over the budget and manage project activities. Project managers are viewed as more project coordinators.
 
 #### Controlling PMO (O2)&#x20;
 
@@ -34,4 +34,3 @@ Responsible for planning and execution of projects and programs within a specifi
 Responsible for planning and execution of all significant projects and programs for the entire organization. This may include both IT and Business projects. These PMOs are ongoing in nature and have the highest degree of scope and impact on the organization.
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-

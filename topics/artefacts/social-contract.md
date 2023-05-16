@@ -18,7 +18,7 @@ People voluntarily give up some of their individual freedoms and enter into a co
 
 People create a social contract – an agreement to grant a limited amount of power to a government in exchange for some of their personal freedom so they can live together peacefully.
 
-<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Good starting questions to ask to get the team thinking are:
 

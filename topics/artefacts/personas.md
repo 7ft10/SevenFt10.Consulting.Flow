@@ -112,11 +112,11 @@ For example, "What happens when a Motorcyclist who only uses their bike for comm
 
 If there is already a global set of personas, make sure to bring them along. They will help with brainstorming the problem from different perspectives.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When you think that you have enough, then you can rearrange the personas into a tree. Don't worry if it's not perfect or a "valid tree" - the point is to see the problem from all perspectives to figure out where the benefits reside.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Additional Uses: As a story-writing aide** <a href="#howtoguide-personas-additionaluses-asastorywritingaide" id="howtoguide-personas-additionaluses-asastorywritingaide"></a>
 

@@ -69,7 +69,7 @@ When you create a software solution, its architecture must do two things:
 
 <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Enterprise architecture is the process of translating the business vision and strategy into effective enterprise change by creating, communicating and improving the key principles, standards and models that describe the enterprise's strategic IT architecture.
 
@@ -77,7 +77,7 @@ Having a defined strategic IT architecture alone is not enough; if the principle
 
 In framing the approach for IT architecture governance, consideration was given to establishing a multi-tiered framework to separate strategic/enterprise concerns from tactical/solution-oriented interests, but a single architecture forum has been chosen due to the relatively small size of A\&G and the desire to avoid an overly complex governance framework.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The noteworthy characteristics of software architecture include the following:
 
