@@ -267,3 +267,4 @@
 ## Thanks & Contributors
 
 * [Thanks](thanks-and-contributors/thanks.md)
+* [License](thanks-and-contributors/license.md)
