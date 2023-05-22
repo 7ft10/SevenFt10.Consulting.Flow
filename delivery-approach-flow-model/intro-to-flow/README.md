@@ -1,8 +1,8 @@
 # Intro to Flow
 
-<figure><img src="../../.gitbook/assets/Picture1.png" alt="Flow System"><figcaption><p>Flow System</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Picture1 (1).png" alt="Flow System"><figcaption><p>Flow System</p></figcaption></figure>
 
-## What are modes?&#x20;
+## What are modes?
 
 Firstly, why modes? Not phases or statuses, or something else? Phases are usually used for traditional waterfall projects, for example, a development phase and then a testing phase. Statuses are useful for tracking work, but an initiative moves backwards and forwards during its lifetime, sometimes multiple times during a single day. Therefore a status can be used as additional metadata to track and manage work.&#x20;
 
