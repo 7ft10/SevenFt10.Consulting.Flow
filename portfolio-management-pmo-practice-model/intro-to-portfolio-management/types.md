@@ -33,4 +33,4 @@ Responsible for planning and execution of projects and programs within a specifi
 
 Responsible for planning and execution of all significant projects and programs for the entire organization. This may include both IT and Business projects. These PMOs are ongoing in nature and have the highest degree of scope and impact on the organization.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

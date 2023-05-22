@@ -55,24 +55,24 @@ The following Test Automation principles have been designed to be in line with i
 
 ## 4 Aces Model
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (3).png" alt=""><figcaption></figcaption></figure>
-
 An extension to the AAA pattern of testing that looks beyond the original intended unit testing methods. The additional A stands for "Annihilate", which is the important clean-up step after tests have been run to allow them to be run over and over.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (26).png" alt="" width="375"><figcaption></figcaption></figure>
 
 For unit tests, this is simple, meaning that any potential disk writing or state change actions are mocked out or only affected within a short-lived memory space. But, for tests higher up in the test triangle, this may mean that transactions can be reversed or not committed or that the entire environment can be replaced (through methods like IAC).&#x20;
 
-### ♠ Arrange
+### ♦ Arrange
 
-Dig out&#x20;
+Crystalise the environment into the perfect state.
 
-### ♦ Act
+### ♠ Act
 
-Sharpen the skills&#x20;
+Dig in and do the work.
 
-### ♣ Assert
+### ♥ Assert
 
-Club the defects
+Love the outcomes - and find the heartbreakers.
 
-### ♥ Annihilate &#x20;
+### ♣ Annihilate
 
-Love a good clean up
+Club the environment back to what is was like before the test was run.

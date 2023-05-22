@@ -14,56 +14,15 @@ We take a strategic view of each issue, considering the overall value propositio
 
 <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Initial Exposure &#x20;
+<table data-full-width="false"><thead><tr><th>Initial Exposure  </th><th>Develop Basics </th><th>Evolve &#x26; Reflect  </th><th>Accelerate &#x26; Kaizen </th></tr></thead><tbody><tr><td><p>Expose and educate</p><p>See it </p><p>Focus </p><p>What is it </p><p>Why do it </p><p>Pre-Shu - Learn where the dojo is </p></td><td><p>Experience and enhance it Own it </p><p>Start to deliver </p><p>Try it out for yourself   </p><p>Shu </p></td><td>Evolve and embed <br>Solve it <br>Optimise <br>Ha</td><td><p></p><p>Escalate + level up </p><p>Do it and know why  </p><p>Solidify + strengthen  </p><p>Continuously improve  </p><p>Ri </p></td></tr></tbody></table>
 
-* Expose and educate&#x20;
-* See it&#x20;
-* Focus&#x20;
-* What is it&#x20;
-* Why do it&#x20;
-* Pre-Shu - Learn where the dojo is&#x20;
-
-Develop Basics &#x20;
-
-* Experience and enhance it&#x20;
-* Own it&#x20;
-* Start to deliver&#x20;
-* Try it out for yourself  &#x20;
-* Shu&#x20;
-
-Evolve & Reflect &#x20;
-
-* Evolve and embed&#x20;
-* Solve it&#x20;
-* Optimise&#x20;
-* Ha&#x20;
-
-Accelerate & Kaizen&#x20;
-
-* Escalate + level up&#x20;
-* Do it and know why &#x20;
-* Solidify + strengthen &#x20;
-* Continuously improve &#x20;
-* Ri&#x20;
-
-You should always start at the beginning of the strip, but some strips may have shorter sections than others. &#x20;
-
-Each topic flows through the "idea strip". &#x20;
+You should always start at the beginning of the strip, but some strips may have shorter sections than others.  Each topic flows through the "idea strip". &#x20;
 
 For example, stand-ups: &#x20;
 
-* Initial Exposure &#x20;
-  * Attend a training session, read an article or book on stand-ups. Have a coach/trainer explain why this is something that the team should try. &#x20;
-* Develop Basics&#x20;
-  * The team tries it out for themselves (e.g. three questions - follow a script).&#x20;
-* Evolve & Reflect &#x20;
-  * Try walking the wall, &#x20;
-  * Try having a different IM for each iteration so that anyone can run it&#x20;
-* Accelerate & Kaizen &#x20;
-  * "Best stand-ups ever!" &#x20;
-  * Valuable and run as often as required. &#x20;
+<table data-full-width="false"><thead><tr><th>Initial Exposure  </th><th>Develop Basics </th><th>Evolve &#x26; Reflect  </th><th>Accelerate &#x26; Kaizen </th></tr></thead><tbody><tr><td><p>Attend a training session, read an article or book on stand-ups. </p><p><br>Have a coach/trainer explain why this is something that the team should try. </p></td><td>The team tries it out for themselves (e.g. three questions - follow a script). </td><td><p>Try walking the wall.</p><p></p><p>Try having a different IM for each iteration so that anyone can run it </p></td><td><p>"Best stand-ups ever!"  </p><p></p><p>Valuable and run as often as required. </p></td></tr></tbody></table>
 
-Ideas are then chained together. &#x20;
+&#x20;Ideas are then chained together. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 

@@ -16,7 +16,7 @@
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (32) (2).png" alt=""><figcaption></figcaption></figure>
 
 ````python
 ```notebook-python
@@ -154,7 +154,7 @@ Where progress looks backwards, confidence levels look forwards and benefit from
 
 ### Trends & Averaging
 
-![](<../../.gitbook/assets/image (31).png>)
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 Averaging an OKR looks like this:
 

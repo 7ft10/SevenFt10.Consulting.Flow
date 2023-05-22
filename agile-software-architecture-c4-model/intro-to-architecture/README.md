@@ -6,7 +6,7 @@ The architecture of a system describes its major components, their relationships
 
 We can segregate Software Architecture and Design into two distinct phases: Software Architecture and Software Design. In Architecture, nonfunctional decisions are cast and separated by the functional requirements. In Design, functional requirements are accomplished.
 
-<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 [https://www.future-processing.com/blog/what-is-software-architecture-in-software-engineering/](https://www.future-processing.com/blog/what-is-software-architecture-in-software-engineering/)
 

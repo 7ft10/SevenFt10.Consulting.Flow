@@ -103,6 +103,7 @@
   * [Sprint / Iteration Planning](topics/planning/sprint-iteration-planning.md)
   * [Release Planning](topics/planning/release-planning.md)
   * [Quarterly Planning](topics/planning/quarterly-planning.md)
+  * [Problem Statement](topics/planning/problem-statement.md)
 * [Ceremonies](topics/ceremonies/README.md)
   * [Showcase](topics/ceremonies/showcase.md)
   * [Scrum of Scrums](topics/ceremonies/scrum-of-scrums.md)
@@ -150,10 +151,10 @@
   * [Test Artefacts](agile-testing-4aces-model/intro-to-agile-testing/test-artefacts.md)
   * [Test Triangle](agile-testing-4aces-model/intro-to-agile-testing/test-triangle.md)
   * [Agile Testing Quadrant](agile-testing-4aces-model/intro-to-agile-testing/agile-testing-quadrant.md)
-* [♠ Arrange](agile-testing-4aces-model/arrange.md)
-* [♦ Act](agile-testing-4aces-model/act.md)
-* [♣ Assert](agile-testing-4aces-model/assert.md)
-* [❤ Annihilate](agile-testing-4aces-model/annihilate.md)
+* [Arrange](agile-testing-4aces-model/arrange.md)
+* [Act](agile-testing-4aces-model/act.md)
+* [Assert](agile-testing-4aces-model/assert.md)
+* [Annihilate](agile-testing-4aces-model/annihilate.md)
 
 ## Change Management (3C Change Model)
 
@@ -247,14 +248,16 @@
 
 ## Tools
 
-* [Miro](tools/miro/README.md)
-  * [Best Practice](tools/miro/best-practice.md)
 * [Jira](tools/jira/README.md)
   * [Best Practice](tools/jira/best-practice.md)
   * [Printing Physical Cards](tools/jira/printing-physical-cards.md)
 * [Confluence](tools/confluence/README.md)
   * [Best Practice](tools/confluence/best-practice.md)
   * [Example Confluence Layout](tools/confluence/example-confluence-layout.md)
+* [Power BI](tools/power-bi/README.md)
+  * [Power Query M](tools/power-bi/power-query-m.md)
+* [Miro](tools/miro/README.md)
+  * [Best Practice](tools/miro/best-practice.md)
 
 ## FAQs
 

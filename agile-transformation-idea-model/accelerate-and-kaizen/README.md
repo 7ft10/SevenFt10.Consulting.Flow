@@ -1,6 +1,6 @@
 # Accelerate & Kaizen
 
-Agility
+## Agility
 
 * Invent new ways and things&#x20;
 * Refactor &#x20;
@@ -9,14 +9,14 @@ Agility
   * Teams &#x20;
 * Design thinking&#x20;
 
-Team Skills
+## Team Skills
 
 * Innovation &#x20;
 
-Continuous Delivery
+## Continuous Delivery
 
 * Constant deployment as an option (during the day, any day)&#x20;
 
-Technology Processes
+## Technology Processes
 
 * Continuous improvement is expected.&#x20;

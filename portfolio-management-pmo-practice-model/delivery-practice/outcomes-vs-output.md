@@ -2,7 +2,7 @@
 
 ## Strategic, Tactical, and Operational Outcomes
 
-<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22) (2).png" alt=""><figcaption></figcaption></figure>
 
 An outcome is a meaningful and fundamental change in the status quo as a result of some work.\* Intended and actual outcomes should be expressed in measurable terms. There are four types of outcomes:
 

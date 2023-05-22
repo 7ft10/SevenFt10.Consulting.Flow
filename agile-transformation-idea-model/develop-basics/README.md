@@ -1,6 +1,6 @@
 # Develop Basics
 
-Agility&#x20;
+## Agility&#x20;
 
 * Standardise practices & approaches
   * Tools &#x20;
@@ -16,7 +16,7 @@ Agility&#x20;
 * Problem-solving skills&#x20;
 * Applying Little’s law&#x20;
 
-Team Skills&#x20;
+## Team Skills&#x20;
 
 * Skill growth roadmaps&#x20;
 * Problem management&#x20;
@@ -24,13 +24,13 @@ Team Skills&#x20;
 * Resilience & Sustainability&#x20;
 * Templates & agility dictionary&#x20;
 
-Continuous Delivery&#x20;
+## Continuous Delivery&#x20;
 
 * Regulator engagement at tool level.&#x20;
 * Regression testing runs constantly,&#x20;
 * Automated testing at all levels.&#x20;
 
-Technology Processes&#x20;
+## Technology Processes&#x20;
 
 * Collaborative strategic planning,&#x20;
 * Data-driven decision making.&#x20;
