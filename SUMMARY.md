@@ -263,3 +263,7 @@
 
 * [Frequently Asked Questions](faqs/frequently-asked-questions.md)
 * [Glossary of Terms](faqs/glossary-of-terms.md)
+
+## Thanks & Contributors
+
+* [Thanks](thanks-and-contributors/thanks.md)
