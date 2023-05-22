@@ -2,6 +2,8 @@
 
 ## Coaching Model (A6)
 
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>A6 Coaching Model</p></figcaption></figure>
+
 1. Agree
 2. Address
 3. Assess
@@ -9,11 +11,11 @@
 5. Assign
 6. Account
 
-© 2017 The Painefree Group_, LLC  (11628 Old Ballas Road, St. Louis, MO 63141)_
+Original concept © 2017 The Painefree Group_, LLC  (11628 Old Ballas Road, St. Louis, MO 63141)_
 
 ## Agile Coaching Competency Framework
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption><p>Agile Coach Competency Framework was developed by Lyssa Adkins and Michael Spayd as part of their work at the Agile Coaching Institute (ACI)</p></figcaption></figure>
 
 **Agile-Lean Practitioner**&#x20;
 
