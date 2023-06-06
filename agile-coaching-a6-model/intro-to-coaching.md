@@ -17,6 +17,10 @@ Original concept © 2017 The Painefree Group_, LLC  (11628 Old Ballas Road, St. 
 
 <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption><p>Agile Coach Competency Framework was developed by Lyssa Adkins and Michael Spayd as part of their work at the Agile Coaching Institute (ACI)</p></figcaption></figure>
 
+Coaching Stances - you can't spend all your time on the left (in content) or on the right (in coaching). Otherwise, you won't get the outcomes you want. For example, if you always ask open powerful questions that get the coachee to look inside to find the answers that you already know, then they won't ask you anymore - especially if they aren't making any progress. These are often the people that you need to help the most - those who get coaching are the easiest to transform and require the lightest touch.&#x20;
+
+
+
 **Agile-Lean Practitioner**&#x20;
 
 Ability to learn and deeply understand Agile frameworks and Lean principles, not only at the level of practices but also at the level of the principles and values that underlie the practices enabling appropriate application as well as innovation.
@@ -43,7 +47,7 @@ Ability to get your hands dirty with architecting, designing, coding, test engin
 
 **Business Mastery**&#x20;
 
-Ability to apply business strategy and management frameworks to employ agile as a competitive business advantage, such as Lean Start-Up, product innovation techniques, flow-based business process management approaches, and other techniques that relate to innovating in the business domain.
+Ability to apply business strategy and management frameworks to employ agile as a competitive business advantage, such as Lean Start-Up, product innovation techniques, flow-based business process management approaches, and other techniques related to innovating in the business domain.
 
 **Transformation Mastery**&#x20;
 
@@ -56,3 +60,5 @@ Taken from http://www.agilecoachinginstitute.com/agile-coaching-resources/
 The coachee already has the answers. This means that the coach is there as a guide rather than a problem solver. The coach is a catalyst. While they do not create the change in the coachee, they are an assistant in helping them move forward. The coachee is accountable within the coaching process. The coach creates the foundation, but the coachee must do the work. The coach is passionate about assisting in the change process. They are driven to see the client succeed. The coaching process is built on trust. All coaching conversations are confidential, and the coach/client relationship is highly respected.
 
 Taken from http://nlp-leadership-coaching.com/why-successful-leaders-need-coaching-skills/
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>

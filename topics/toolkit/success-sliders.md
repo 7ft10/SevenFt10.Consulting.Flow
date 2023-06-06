@@ -19,14 +19,7 @@ _**We use this to** prioritise what is most important to focus on for this initi
 
 ## Example  <a href="#template-successsliders-example" id="template-successsliders-example"></a>
 
-| ELEMENT         | FLEXIBLE    | .           | .           | .           | .           | FIXED       |
-| --------------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| On Time         | <p><br></p> | <p><br></p> | <p><br></p> | <p><br></p> | X           | <p><br></p> |
-| Within Budget   | <p><br></p> | <p><br></p> | <p><br></p> | <p><br></p> | <p><br></p> | X           |
-| Compliant       | <p><br></p> | X           | <p><br></p> | <p><br></p> | <p><br></p> | <p><br></p> |
-| High Quality    | <p><br></p> | <p><br></p> | X           | <p><br></p> | <p><br></p> | <p><br></p> |
-| Complete Scope  | X           | <p><br></p> | <p><br></p> | <p><br></p> | <p><br></p> | <p><br></p> |
-| Team engagement | <p><br></p> | <p><br></p> | <p><br></p> | X           | <p><br></p> | <p><br></p> |
+<table><thead><tr><th width="190">ELEMENT</th><th width="107">FLEXIBLE</th><th width="56">.</th><th width="58">.</th><th width="55">.</th><th width="63">.</th><th>FIXED</th></tr></thead><tbody><tr><td>On Time</td><td><br></td><td><br></td><td><br></td><td><br></td><td>X</td><td><br></td></tr><tr><td>Within Budget</td><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td><td>X</td></tr><tr><td>Compliant</td><td><br></td><td>X</td><td><br></td><td><br></td><td><br></td><td><br></td></tr><tr><td>High Quality</td><td><br></td><td><br></td><td>X</td><td><br></td><td><br></td><td><br></td></tr><tr><td>Complete Scope</td><td>X</td><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr><tr><td>Team engagement</td><td><br></td><td><br></td><td><br></td><td>X</td><td><br></td><td><br></td></tr></tbody></table>
 
 _Commentary: Given our constraints of X when push comes to shove while <  Y  > is important, we value \<Z> more because it will enable/provide/achieve….._
 
