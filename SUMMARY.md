@@ -207,6 +207,10 @@
 * [Assign](agile-coaching-a6-model/assign.md)
 * [Account](agile-coaching-a6-model/account.md)
 
+## Agile Leadership
+
+* [Intro to Agile Leadership](agile-leadership/intro-to-agile-leadership.md)
+
 ## Agile Software Architecture (C4 Model)
 
 * [Intro to Architecture](agile-software-architecture-c4-model/intro-to-architecture/README.md)
