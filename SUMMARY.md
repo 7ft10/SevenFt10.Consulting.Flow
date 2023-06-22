@@ -228,6 +228,7 @@
   * [Examples](agile-software-architecture-c4-model/code/examples.md)
 * [Patterns](agile-software-architecture-c4-model/patterns/README.md)
   * [Back-end for Front-end (BFF)](agile-software-architecture-c4-model/patterns/back-end-for-front-end-bff.md)
+  * [Event-Driven Microservices](agile-software-architecture-c4-model/patterns/event-driven-microservices.md)
 
 ## Portfolio Management (PMO Practice Model)
 
