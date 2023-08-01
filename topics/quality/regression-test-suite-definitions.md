@@ -22,7 +22,7 @@ This suite provides a developer with confidence that when their feature branch i
 
 The Smoke Suite runs much slower than the Compile Suite and trades speed for a broader scope.
 
-Tests that have dependencies on changes to services whose deployments cannot be effected intra-day must not be run in the Smoke Suite. These tests should be part of the System Regression Suite.
+Tests that have dependencies on changes to services whose deployments cannot be effected intraday must not be run in the Smoke Suite. These tests should be part of the System Regression Suite.
 
 The Smoke Suite is emptied of everything except the Compile Suite at the start of each sprint.
 
@@ -36,11 +36,11 @@ The Build Suite runs slower than the Smoke Suite but has broader functional cove
 
 This suite provides the end-to-end team with a level of confidence as to the correctness of their (unintegrated) software on the develop branch as feature branches are merged in. It is a scalable, fine-grained approach to determining go-live readiness.
 
-The Smoke Suite typically takes less than 10-15min to run depending on the number of out-of-process visual and acceptance tests that run in the suite.
+The Smoke Suite typically takes less than 10-15 min to run depending on the number of out-of-process visual and acceptance tests that run in the suite.
 
 ## System Regression (SRG)
 
-A suite of tests that focus on asserting functionality that is only available once deployed to a hosted environment such as NXI or NXQ.
+A suite of tests that focus on asserting functionality that is only available once deployed to a hosted environment such as UAT.
 
 This suite provides the end-to-end team with a coarse-grained approach to determining go-live readiness through broad functional coverage.
 
