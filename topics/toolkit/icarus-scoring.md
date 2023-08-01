@@ -4,7 +4,7 @@
 _**We use this to** .... **so that we can** ...._ &#x20;
 {% endhint %}
 
-ICaRuS scoring is a prioritisation method built on concepts like WSJF and the GIST framework. It takes into account the impact areas that Auto & General are currently focused on and uses a mathematical calculation to arrive at a number that can be used to prioritise against other Opportunities.&#x20;
+ICaRuS scoring is a prioritisation method built on concepts like WSJF and the GIST framework. It takes into account the impact areas that business are currently focused on and uses a mathematical calculation to arrive at a number that can be used to prioritise against other Opportunities.&#x20;
 
 ## How to Calculate <a href="#icarusscoring-howtocalculate" id="icarusscoring-howtocalculate"></a>
 
