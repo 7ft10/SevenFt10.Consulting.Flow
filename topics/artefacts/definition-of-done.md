@@ -63,7 +63,7 @@ We aim to be done and right by completing all the tasks and ensuring that we mak
 
 The Agile Manifesto states "**Working software is the primary measure of progress**", this translates to the done state being binary - work is either done or not done. In traditional methods, we asked for percentage complete and everyone always said 80% cause it showed that you had done a lot of work - but there was still lots to go and managers seemed to like that. Unfortunately, it meant nothing, as we can't deploy something 80% done wot our customers and therefore, we can't create value with the increment.
 
-**There is no such a thing as "dev done", "almost done", "done except for ....", "quite done" or "done but not done-done" It is done or it is not done.**&#x20;
+**There is no such a thing as "dev done", "almost done", "done except for ...", "quite done" or "done but not done-done" It is done or it is not done.**&#x20;
 
 This helps with the transparency and trust between the delivery team and its stakeholders.
 
