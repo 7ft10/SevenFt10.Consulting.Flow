@@ -69,16 +69,12 @@ This helps with the transparency and trust between the delivery team and its sta
 
 If at the end of a Sprint you are not done, that's ok. It's okay not to showcase and deploy something that isn't done. Don't change the estimate. Talk about it in the Retro - why wasn't it finished? Was there something off with the estimate? Or did we not plan properly? How can we fix the process so that we limit the amount of "not done" work moving to the next iteration? Finally, move it to the next iteration and finish it asap - as we were working on it because it was a high priority and we have started working on it so finish it!
 
-## Auto & General DoD <a href="#howtoguide-createadefinitionofdone-dod-auto-and-generaldod" id="howtoguide-createadefinitionofdone-dod-auto-and-generaldod"></a>
-
-All teams must have at least the A\&G DoD steps in their DoD. That creates a standard the delivery process and Quality Assurance
+## Example DoD <a href="#howtoguide-createadefinitionofdone-dod-auto-and-generaldod" id="howtoguide-createadefinitionofdone-dod-auto-and-generaldod"></a>
 
 ## How to run a DoD session <a href="#howtoguide-createadefinitionofdone-dod-howtorunadodsession" id="howtoguide-createadefinitionofdone-dod-howtorunadodsession"></a>
 
 * [http://tastycupcakes.org/2014/06/defining-done/](http://tastycupcakes.org/2014/06/defining-done/)&#x20;
 * [https://waynedgrant.wordpress.com/2013/12/11/definition-of-done-workshop](https://waynedgrant.wordpress.com/2013/12/11/definition-of-done-workshop/)&#x20;
-
-
 
 Based on the current Jira statuses for a Story and a Defect, here is the list of minimum tasks/answers required for a Story to progress from one Status to the Next.
 
