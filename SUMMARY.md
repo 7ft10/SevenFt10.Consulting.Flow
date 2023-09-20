@@ -70,6 +70,14 @@
 * [Check](delivery-approach-flow-model/check/README.md)
   * [Process](delivery-approach-flow-model/check/process.md)
 
+## 3D Work-Breakdown
+
+* [Intro to Work Breakdown](3d-work-breakdown/intro-to-work-breakdown.md)
+* [Direction](3d-work-breakdown/direction.md)
+* [Discovery](3d-work-breakdown/discovery.md)
+* [Delivery](3d-work-breakdown/delivery.md)
+* [Flow & 3D Work-Breakdown](3d-work-breakdown/flow-and-3d-work-breakdown.md)
+
 ## Roles & Responsibilities
 
 * [Overview](roles-and-responsibilities/overview/README.md)

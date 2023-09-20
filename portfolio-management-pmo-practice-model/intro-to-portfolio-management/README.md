@@ -78,7 +78,7 @@ Companies should understand and accept that every team and team member is unique
 
 ## PMO Practice Model
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 In today’s changing world of work, mastering these seven competencies gives savvy PMOs the insights needed to thrive.
 
